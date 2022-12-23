@@ -1,0 +1,112 @@
+LISTA DE PERSONAGENS HISTÓRICOS {
+	preferencialmente entre 1900-1920
+	
+	Acre {
+	
+	}
+	Confederação do Equador {
+		# políticos
+		Hermes da Fonseca (nasceu no Rio Grande do Sul mas a família era de Alagoas)
+		Epitácio Pessoa
+		Ruy Barbosa
+		Francisco Heráclio do Rego (coronel)
+		João Mangabeira
+		João Pessoa Cavalcanti de Albuquerque
+		Waldemar Falcão (um pouco jovem, possível proto-fascista)
+		Manuel de Oliveira Lima
+		
+		# generais & oficiais
+		Vespasiano Gonçalves de Albuquerque e Silva
+		João Gomes Ribeiro Filho
+		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
+		
+	}
+	Ducado da Guanabara {
+		# políticos
+		Nilo Peçanha
+		Duquesa Isabel
+		Washington Luís
+		João Pandiá Calógeras
+		José Maria da Silva Paranhos Júnior
+		Alberto Torres (possível proto-fascista)
+		
+		# almirantes
+		Antônio Coutinho Gomes Pereira
+		Isaías de Noronha
+		Henrique Aristides Guilhem
+		
+		# outros
+		Adolfo Lutz
+	}
+	Grão-Pará {
+		# políticos 
+		Justo Chermont
+		Gentil Augusto de Morais Bittencourt
+		
+		# generais & oficiais
+		Augusto Tasso Fragoso
+		
+		#almirantes
+		Manuel Inácio Belfort Vieira
+		
+	}
+	Mato Grosso {
+		# generais & oficiais
+		Cândido Rondon
+		Augusto Inácio do Espírito Santo Cardoso
+		Eurico Gaspar Dutra (um pouco jovem)
+		
+		# outros
+		Percy Fawcett
+	}
+	Minas Gerais {
+		# políticos
+		Afonso Pena
+		Venceslau Brás
+		Delfim Moreira
+		Artur Bernardes
+		Afrânio de Melo Franco
+		
+		# almirantes
+		Jorge Dodsworth Martins (um pouco jovem)
+		
+		# outros
+		Vital Brazil
+		Carlos Chagas
+	}
+	São Paulo {
+		# políticos
+		Rodrigues Alves
+		
+		# outros
+		Emílio Ribas
+		Oswaldo Cruz
+
+	}
+	República Riograndense {
+		# políticos
+		Borges de Medeiros
+		Joaquim Francisco de Assis Brasil
+		Ramiro Fortes de Barcellos
+		Plínio de Castro Casado (possível socialista)
+		Hercílio Luz
+		João Cândido ("almirante negro", pode ser socialista)
+		Euclides Egídio de Sousa Aranha (coronel)
+		Afonso d'Escragnolle Taunay
+		
+		# generais & oficiais
+		Setembrino de Carvalho
+		Nestor Sezefredo dos Passos
+		João de Deus Mena Barreto
+		José Fernandes Leite de Castro
+		Lauro Müller
+		
+		# almirantes
+		Pedro Max Fernando Frontin
+		Alexandrino Faria de Alencar
+		Protógenes Guimarães
+	}
+}
+
+
+# brackets para navegação
