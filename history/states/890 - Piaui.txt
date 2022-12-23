@@ -1,0 +1,25 @@
+state={
+	id=890
+	name="STATE_925"
+	manpower = 1501348
+	
+	state_category = town
+	
+
+	history={
+		owner = EQA
+		add_claim_by = GPA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = EQA
+
+		victory_points = {
+			13364 1 # Teresina
+		}
+	}
+
+	provinces={
+		2228 5153 5204 10984 13361 13362 13363 13364 
+	}
+}

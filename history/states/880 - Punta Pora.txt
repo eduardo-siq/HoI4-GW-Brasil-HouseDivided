@@ -1,0 +1,24 @@
+state={
+	id=880
+	name="STATE_915"
+	manpower = 105716
+	
+	state_category = rural
+
+	history={
+		owner = PAR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = PAR
+		add_claim_by = XIN
+		victory_points = {
+			13402 1		# Dorados (Dourados)
+		}
+	}
+
+	provinces={
+		5200 8224 12951 13401 13402 13403 
+	}
+}

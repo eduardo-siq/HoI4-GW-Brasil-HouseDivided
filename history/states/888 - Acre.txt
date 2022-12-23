@@ -1,0 +1,35 @@
+state={
+	id=888
+	name="STATE_923"
+	manpower = 550717
+	
+	state_category = town
+	
+	resources={
+		rubber = 20
+	}
+
+	history={
+		owner = ACR
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = ACR
+		add_claim_by = BOL
+
+		victory_points = {	# Porto Acre
+			13466 5
+		}
+		victory_points = {	# Cruzeiro do Sul
+			13468 1
+		}
+
+		#set_state_flag = amazonean_basin_flag
+	}
+
+	provinces={
+		13466 13467 13468 13469 13470 
+	}
+}

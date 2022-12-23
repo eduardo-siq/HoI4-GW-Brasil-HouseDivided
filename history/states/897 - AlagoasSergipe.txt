@@ -1,0 +1,30 @@
+state={
+	id=897
+	name="STATE_932"
+	manpower = 604722
+	
+	state_category = rural
+
+	#resources={
+	#	oil = 1
+	#}
+
+	history={
+		owner = EQA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = EQA
+
+		victory_points = {
+			8143 1		# Aracaju
+		}
+		victory_points = {
+			10939 1		# Maceio
+		}
+	}
+
+	provinces={
+		1524 8143 10939 10998 
+	}
+}

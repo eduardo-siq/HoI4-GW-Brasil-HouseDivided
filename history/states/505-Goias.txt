@@ -1,0 +1,26 @@
+
+state={
+	id=505
+	name="STATE_505"
+	manpower = 1501604
+	
+	state_category = town
+
+	history={
+		owner = XIN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 1
+		}
+		add_core_of = XIN
+		victory_points = {
+			12987 1		# Goiânia
+		}
+	}
+
+	provinces={
+		5115 5148 5208 8140 12959 12987 13376 13377 13378 13379 13380 13381 13382 13383 
+	}
+
+	buildings_max_level_factor=1.000
+}

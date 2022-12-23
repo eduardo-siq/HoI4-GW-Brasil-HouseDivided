@@ -1,0 +1,29 @@
+state={ # Oeste da Bahia
+	id=885
+	name="STATE_920"
+	manpower = 1175326
+	
+	state_category = town
+
+	history={
+		owner = EQA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+		}
+		victory_points = {
+			13356 1		# Barreiras
+		}
+		victory_points = {
+			12422 1		# Vitória da Conquista
+		}
+		victory_points = {
+			13358 1		# Macaúbas
+		}
+
+	}
+
+	provinces={
+		5174 5194 5218 8129 8177 10926 12422 13337 13354 13355 13356 13357 13358 13359 13360 
+	}
+}

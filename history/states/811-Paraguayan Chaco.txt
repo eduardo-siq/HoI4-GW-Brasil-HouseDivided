@@ -1,0 +1,28 @@
+state={
+	id=811
+	name="STATE_811"
+	resources={
+		tungsten=4.000
+	}
+
+	history={
+	    victory_points = {
+			2209 1 
+		}
+		owner = PAR
+		add_core_of = PAR
+		add_claim_by = BOL
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2195 2209 10973
+	}
+	manpower=21615
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

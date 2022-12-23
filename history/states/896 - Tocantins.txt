@@ -1,0 +1,25 @@
+state={
+	id=896
+	name="STATE_931"
+	manpower = 551496
+	
+	state_category = rural
+
+	history={
+		owner = XIN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = XIN
+		add_claim_by = GPA
+
+		victory_points = {
+			2168 1		# Teresina
+		}
+	}
+
+	provinces={
+		2168 5151 13372 13373 13374 13375 13474 13475 
+	}
+}

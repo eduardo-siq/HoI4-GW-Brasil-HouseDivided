@@ -1,0 +1,40 @@
+
+state={
+	id=502
+	name="STATE_502"
+	manpower = 4624789
+	
+	state_category = large_city
+
+	history={
+		owner = RGR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 1
+			dockyard = 2
+			10447 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = RGR
+		victory_points = {
+			10447 10	# Porto Alegre
+		}
+		victory_points = {
+			7638 1		# Rio Grande
+		}
+		victory_points = {
+			13297 1		# Uruguaiana
+		}
+		victory_points = {
+			13310 1		# Campo dos Bugres (Caxias do Sul)
+		}
+
+	}
+
+	provinces={
+		1542 1585 1598 4436 4575 4589 4604 5110 7581 7594 7638 10447 12396 13297 13298 13299 13300 13301 13302 13303 13304 13305 13306 13307 13308 13309 13310 13311 13312 
+	}
+}

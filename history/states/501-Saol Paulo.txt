@@ -1,0 +1,39 @@
+
+state={
+	id=501
+	name="STATE_501"
+	manpower = 6199200
+	state_category = megalopolis
+
+
+	history={
+		owner = SPL
+		add_core_of = SPL
+		buildings = {
+			industrial_complex = 4
+			arms_factory = 2
+			infrastructure = 3
+			dockyard = 2
+			air_base = 1
+			5112 = {
+				naval_base = 4
+			}
+		}		
+		victory_points = {
+			10513 25	# São Paulo
+		}
+		victory_points = {
+			5112 5		# Santos
+		}
+		victory_points = {
+			10432 1		# São José dos Campos
+		}
+		victory_points = {
+			10947 1		# Sorocaba
+		}
+	}
+
+	provinces={
+		5112 5167 7553 10360 10432 10513 10947 13285 
+	}
+}

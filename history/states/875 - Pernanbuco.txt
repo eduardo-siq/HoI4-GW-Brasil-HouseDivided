@@ -1,0 +1,36 @@
+state={
+	id=875
+	name="STATE_910"
+	manpower = 1209444
+	
+	state_category = city
+
+	history={
+		owner = EQA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			5168 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = EQA
+
+		victory_points = {
+			5168 15	# Recife
+		}
+		victory_points = {
+			10967 1	# Caruaru
+		}
+		victory_points = {
+			8227 1	# Petrolina
+		}
+	}
+
+	provinces={
+		8227 5168 10967 5182 10345 12961 
+	}
+}

@@ -1,0 +1,29 @@
+
+state={	# Mato Grosso
+	id=280
+	name="STATE_280"
+	manpower = 498415
+	
+	state_category = town
+
+	history={
+		owner = XIN
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 1
+		}
+		add_core_of = XIN
+		victory_points = {
+			13489 5		# Cuiabá
+		}
+
+		#set_state_flag = amazonean_basin_flag
+	}
+
+	provinces={
+		2111 2142 2147 8175 11010 13385 13386 13387 13388 13389 13390 13391 13392 13393 13394 13395 13489 13490 13491 
+	}
+
+	buildings_max_level_factor=1.000
+}

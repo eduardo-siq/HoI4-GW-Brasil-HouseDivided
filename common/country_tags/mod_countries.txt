@@ -1,0 +1,18 @@
+### MOD MOD MOD MOD ###
+SPL = "countries/Sao Paulo.txt"
+RIO = "countries/Rio de Janeiro.txt"
+EQA = "countries/Confederacao do Equador.txt"
+RGR = "countries/Rio Grande.txt"
+ACR = "countries/Acre.txt"
+GPA = "countries/Grao Para.txt"
+XIN = "countries/Xingu.txt"
+MNG = "countries/Minas Gerais.txt"
+#releasable
+JUL = "countries/Republica Juliana.txt"
+MRJ = "countries/Maracaju.txt"
+#natives
+GRN = "countries/Guarani.txt"
+AYM = "countries/Aymara.txt"
+QCH = "countries/Quechua.txt"
+MPC = "countries/Mapuche.txt"
+ARW = "countries/Arawak.txt"

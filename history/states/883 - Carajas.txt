@@ -1,0 +1,30 @@
+state={
+	id=883
+	name="STATE_918"
+	manpower = 452716
+	
+	state_category = rural
+	
+	resources = {
+		steel = 6
+	}
+
+	history={
+		owner = GPA
+		add_core_of = GPA
+		#add_claim_by = XIN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+		}
+		victory_points = {
+			13434 1		# Marabá
+		}
+
+		#set_state_flag = amazonean_basin_flag
+	}
+
+	provinces={
+		10956 13413 13414 13415 13416 13417 13418 13434 
+	}
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=495
+	name="STATE_495"
+	manpower = 1051573
+	
+	state_category = town
+	
+	resources = {
+		aluminium = 15
+		rubber = 10
+	}
+
+	history={
+		owner = GPA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		add_core_of = GPA
+		victory_points = {
+			10934 10	# Manaus
+		}
+		victory_points = {
+			13450 1		# Humaitá
+		}
+
+		#set_state_flag = amazonean_basin_flag
+	}
+
+
+
+	provinces={
+		5232 8254 12919 12965 13436 13438 13440 13441 13443 13444 13445 13446 13447 13448 13450 13451 13452 13453 13454 13455 13459 13461 13462 
+	}
+}
