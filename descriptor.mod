@@ -8,5 +8,5 @@ tags={
 name="Great War Brasil - a House Divided"
 picture="thumbnail.jpg"
 supported_version="1.12.7"
-path="C:/Users/Cliente/Documents/Paradox Interactive/Hearts of Iron IV/mod/GW-HD"
+path="/home/stailay/.local/share/Paradox Interactive/Hearts of Iron IV/mod/brazildivided/HoI4-GW-Brasil-HouseDivided"
 dependencies={"The Great War Redux"}
