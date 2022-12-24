@@ -14,6 +14,14 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Gregório Taumaturgo de Azevedo (?)
 		Gabino Besouro (alagoano)
 		Luís Silvestre Gomes Coelho (cearense, um pouvo jovem)
+		
+		# almirantes
+		
+		# outros
+		
+		# empresas
+		
+		# partidos & eventos
 	
 	}
 	Confederação do Equador {
@@ -35,6 +43,14 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
 		João Gualberto Gomes de Sá Filho
 		Tertuliano Potiguara
+		
+		# almirantes
+		
+		# outros
+		
+		# empresas
+		
+		# partidos & eventos
 		
 	}
 	Ducado da Guanabara {
@@ -62,6 +78,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# outros
 		Adolfo Lutz
 		Ricardo Kirk (aviador)
+		
+		# partidos & eventos
 	}
 	Grão-Pará {
 		# políticos 
@@ -75,8 +93,14 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Augusto Tasso Fragoso
 		Lauro Sodré
 		
-		#almirantes
+		# almirantes
 		Manuel Inácio Belfort Vieira
+		
+		# outros
+		
+		# empresas
+		
+		# partidos & eventos
 		
 	}
 	Mato Grosso {
@@ -90,8 +114,14 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Eurico Gaspar Dutra (um pouco jovem)
 		Caetano Manuel de Faria e Albuquerque (possível proto-fascista)
 		
+		# almirantes
+		
 		# outros
-		Percy Fawcett
+		Percy Fawcett (explorador inglês)
+		
+		# empresas
+		
+		# partidos & eventos
 	}
 	Minas Gerais {
 		# políticos
@@ -109,6 +139,10 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# outros
 		Vital Brazil
 		Carlos Chagas
+		
+		# empresas
+		
+		# partidos & eventos
 	}
 	São Paulo {
 		# políticos
@@ -124,10 +158,16 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Brasílio Taborda
 		Francisco Júlio César de Alfieri (italiano)
 		
+		# almirantes
+		
 		# outros
 		Emílio Ribas
 		Oswaldo Cruz
 		Francesco Matarazzo
+		
+		# empresas
+		
+		# partidos & eventos
 	}
 	República Riograndense {
 		# políticos
@@ -156,6 +196,12 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Pedro Max Fernando Frontin
 		Alexandrino Faria de Alencar
 		Protógenes Guimarães
+		
+		# outros
+		
+		# empresas
+		
+		# partidos & eventos
 	}
 }
 
