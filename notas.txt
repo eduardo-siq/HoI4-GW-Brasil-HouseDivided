@@ -28,7 +28,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# políticos
 		Hermes da Fonseca (nasceu no Rio Grande do Sul mas a família era de Alagoas)
 		Epitácio Pessoa
-		Ruy Barbosa
+		Ruy Barbosa (líder democrata)
 		Francisco Heráclio do Rego (coronel)
 		João Mangabeira
 		João Pessoa Cavalcanti de Albuquerque
