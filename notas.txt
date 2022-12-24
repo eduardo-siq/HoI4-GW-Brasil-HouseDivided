@@ -98,8 +98,10 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Afonso Pena
 		Venceslau Brás
 		Delfim Moreira
-		Artur Bernardes
+		Arthur Bernardes
 		Afrânio de Melo Franco
+		Olegário Maciel (possível democrata)
+		Antônio Carlos Ribeiro de Andrada (possível democrata)
 		
 		# almirantes
 		Jorge Dodsworth Martins (um pouco jovem)
