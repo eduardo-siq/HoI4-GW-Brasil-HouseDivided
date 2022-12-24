@@ -2,6 +2,18 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	preferencialmente entre 1900-1920
 	
 	Acre {
+		# políticos
+		Luis Gálvez Rodríguez de Arias (espanhol)
+		José Plácido de Castro (gaúcho/paulista)
+		Epaminondas Jácome (potiguar)
+		José Tomás da Cunha Vasconcelos (pernambucano)
+		
+		# generais
+		José Cardoso Ramalho Júnior (amazonense)
+		Joaquim Vítor da Silva (?)
+		Gregório Taumaturgo de Azevedo (?)
+		Gabino Besouro (alagoano)
+		Luís Silvestre Gomes Coelho (cearense, um pouvo jovem)
 	
 	}
 	Confederação do Equador {
@@ -14,11 +26,15 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João Pessoa Cavalcanti de Albuquerque
 		Waldemar Falcão (um pouco jovem, possível proto-fascista)
 		Manuel de Oliveira Lima
+		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
+		Joaquim Pimenta
 		
 		# generais & oficiais
 		Vespasiano Gonçalves de Albuquerque e Silva
 		João Gomes Ribeiro Filho
 		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
+		João Gualberto Gomes de Sá Filho
+		Tertuliano Potiguara
 		
 	}
 	Ducado da Guanabara {
@@ -29,6 +45,14 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João Pandiá Calógeras
 		José Maria da Silva Paranhos Júnior
 		Alberto Torres (possível proto-fascista)
+		Evaristo de Morais
+		Maurício Paiva de Lacerda (um pouvo jovem, possível socialista)
+		
+		# generais
+		Francisco Jaguaribe Gomes de Matos (um pouco jovem, possível democrata)
+		Nicolau Bueno Horta Barbosa (possível democrata)
+		Manuel Rabelo
+		Alberto Cardoso de Aguiar
 		
 		# almirantes
 		Antônio Coutinho Gomes Pereira
@@ -37,24 +61,34 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		
 		# outros
 		Adolfo Lutz
+		Ricardo Kirk (aviador)
 	}
 	Grão-Pará {
 		# políticos 
 		Justo Chermont
 		Gentil Augusto de Morais Bittencourt
+		Joaquim de Magalhães Barata (um pouco jovem, possível socialista)
+		José Carneiro da Gama Malcher
+		Silvério José Néri
 		
 		# generais & oficiais
 		Augusto Tasso Fragoso
+		Lauro Sodré
 		
 		#almirantes
 		Manuel Inácio Belfort Vieira
 		
 	}
 	Mato Grosso {
+		# políticos
+		Joaquim Augusto da Costa Marques
+		Pedro Celestino Corrêa da Costa
+
 		# generais & oficiais
 		Cândido Rondon
 		Augusto Inácio do Espírito Santo Cardoso
 		Eurico Gaspar Dutra (um pouco jovem)
+		Caetano Manuel de Faria e Albuquerque (possível proto-fascista)
 		
 		# outros
 		Percy Fawcett
@@ -77,11 +111,21 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	São Paulo {
 		# políticos
 		Rodrigues Alves
+		Fernando Prestes de Albuquerque
+		Pedro Manuel de Toledo
+		Edgard Leuenroth
+		Benjamim Mota
+		
+		# generais
+		Miguel Costa (um pouco jovem)
+		Victoriano Clementino Salgado
+		Brasílio Taborda
+		Francisco Júlio César de Alfieri (italiano)
 		
 		# outros
 		Emílio Ribas
 		Oswaldo Cruz
-
+		Francesco Matarazzo
 	}
 	República Riograndense {
 		# políticos
@@ -93,6 +137,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João Cândido ("almirante negro", pode ser socialista)
 		Euclides Egídio de Sousa Aranha (coronel)
 		Afonso d'Escragnolle Taunay
+		José Antônio Flores da Cunha
+		José Maria de Santo Agostinho (monge messiânico)
 		
 		# generais & oficiais
 		Setembrino de Carvalho
@@ -100,6 +146,9 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João de Deus Mena Barreto
 		José Fernandes Leite de Castro
 		Lauro Müller
+		Isidoro Dias Lopes
+		Oscar Saturnino de Paiva (possível democrata)
+		Palimércio de Rezende
 		
 		# almirantes
 		Pedro Max Fernando Frontin

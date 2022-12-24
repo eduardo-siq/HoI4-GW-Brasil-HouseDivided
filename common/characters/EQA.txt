@@ -1,0 +1,218 @@
+characters={
+	### líderes {
+	
+	EQA_ruy_barbosa={
+		name="Ruy Barbosa de Oliveira"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/EQA/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=classical_liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	EQA_waldemar_falcao={
+		name="Waldemar Falcão"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/EQA/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	EQA_joao_mangabeira={
+		name="João Mangabeira"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/EQA/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	EQA_joaquim_pimenta={
+		name="Joaquim Pimenta"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/EQA/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	EQA_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_EQA_ _small"
+		#	}
+		#	army={
+		#		large = "GFX_Portrait_EQA_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	EQA_navy_leader={
+		#name="Antônio Alves Câmara"
+		#portraits={
+		#	navy={
+		#		small = "GFX_Portrait_EQA_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_EQA_Antonio_Alves_Camara"
+		#	}
+		#}
+		navy_leader={
+			skill=2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+			legacy_id=-1
+		}
+	}
+	
+	###} advisers {
+	
+	EQA_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = EQA_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="EQA_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_EQA_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	EQA_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = EQA_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="EQA_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_EQA_Generic_Navy_5_small"
+			}
+		}
+	}
+	EQA_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = EQA_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="EQA_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_EQA_Generic_Navy_5_small"
+			}
+		}
+	}
+	EQA_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = EQA_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="EQA_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_EQA_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	EQA_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = EQA_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="EQA_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_EQA_juarez_tavora"
+			}
+		}
+	}
+	###}
+}

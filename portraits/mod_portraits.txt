@@ -1,0 +1,612 @@
+ACR = {
+	army = {
+		male = {
+			"GFX_Portrait_ACR_Generic_Land_1"
+			"GFX_Portrait_ACR_Generic_Land_2"
+			"GFX_Portrait_ACR_Generic_Land_3"
+			"GFX_Portrait_ACR_Generic_Land_4"
+			"GFX_Portrait_ACR_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_ACR_Generic_Navy_1"
+			"GFX_Portrait_ACR_Generic_Navy_2"
+			"GFX_Portrait_ACR_Generic_Navy_3"
+			"GFX_Portrait_ACR_Generic_Navy_4"
+			"GFX_Portrait_ACR_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+EQA = {
+	army = {
+		male = {
+			"GFX_Portrait_EQA_Generic_Land_1"
+			"GFX_Portrait_EQA_Generic_Land_2"
+			"GFX_Portrait_EQA_Generic_Land_3"
+			"GFX_Portrait_EQA_Generic_Land_4"
+			"GFX_Portrait_EQA_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_EQA_Generic_Navy_1"
+			"GFX_Portrait_EQA_Generic_Navy_2"
+			"GFX_Portrait_EQA_Generic_Navy_3"
+			"GFX_Portrait_EQA_Generic_Navy_4"
+			"GFX_Portrait_EQA_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+GPA = {
+	army = {
+		male = {
+			"GFX_Portrait_GPA_Generic_Land_1"
+			"GFX_Portrait_GPA_Generic_Land_2"
+			"GFX_Portrait_GPA_Generic_Land_3"
+			"GFX_Portrait_GPA_Generic_Land_4"
+			"GFX_Portrait_GPA_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_GPA_Generic_Navy_1"
+			"GFX_Portrait_GPA_Generic_Navy_2"
+			"GFX_Portrait_GPA_Generic_Navy_3"
+			"GFX_Portrait_GPA_Generic_Navy_4"
+			"GFX_Portrait_GPA_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+JUL = {
+	army = {
+		male = {
+			"GFX_Portrait_JUL_Generic_Land_1"
+			"GFX_Portrait_JUL_Generic_Land_2"
+			"GFX_Portrait_JUL_Generic_Land_3"
+			"GFX_Portrait_JUL_Generic_Land_4"
+			"GFX_Portrait_RGR_Generic_Land_5"	# This one is the same!
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_RGR_Generic_Navy_1"
+			"GFX_Portrait_RGR_Generic_Navy_2"
+			"GFX_Portrait_RGR_Generic_Navy_3"
+			"GFX_Portrait_RGR_Generic_Navy_4"
+			"GFX_Portrait_RGR_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/JUL/Portrait_JUL_generic_fascism.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+
+}
+
+MNG = {
+	army = {
+		male = {
+			"GFX_Portrait_MNG_Generic_Land_1"
+			"GFX_Portrait_MNG_Generic_Land_2"
+			"GFX_Portrait_MNG_Generic_Land_3"
+			"GFX_Portrait_MNG_Generic_Land_4"
+			"GFX_Portrait_MNG_Generic_Land_5"
+			#"GFX_Portrait_MNG_Generic_Land_6"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_MNG_Generic_Navy_1"
+			"GFX_Portrait_MNG_Generic_Navy_2"
+			"GFX_Portrait_MNG_Generic_Navy_3"
+			"GFX_Portrait_MNG_Generic_Navy_4"
+			"GFX_Portrait_MNG_Generic_Navy_5"
+			#"GFX_Portrait_MNG_Generic_Navy_6"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+RGR = {
+	army = {
+		male = {
+			"GFX_Portrait_RGR_Generic_Land_1"
+			"GFX_Portrait_RGR_Generic_Land_2"
+			"GFX_Portrait_RGR_Generic_Land_3"
+			"GFX_Portrait_RGR_Generic_Land_4"
+			"GFX_Portrait_RGR_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_RGR_Generic_Navy_1"
+			"GFX_Portrait_RGR_Generic_Navy_2"
+			"GFX_Portrait_RGR_Generic_Navy_3"
+			"GFX_Portrait_RGR_Generic_Navy_4"
+			"GFX_Portrait_RGR_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+RIO = {
+	army = {
+		male = {
+			"GFX_Portrait_RIO_Generic_Land_1"
+			"GFX_Portrait_RIO_Generic_Land_2"
+			"GFX_Portrait_RIO_Generic_Land_3"
+			"GFX_Portrait_RIO_Generic_Land_4"
+			"GFX_Portrait_RIO_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_RIO_Generic_Navy_1"
+			"GFX_Portrait_RIO_Generic_Navy_2"
+			"GFX_Portrait_RIO_Generic_Navy_3"
+			"GFX_Portrait_RIO_Generic_Navy_4"
+			"GFX_Portrait_RIO_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+SPL = {
+	army = {
+		male = {
+			"GFX_Portrait_SPL_Generic_Land_1"
+			"GFX_Portrait_SPL_Generic_Land_2"
+			"GFX_Portrait_SPL_Generic_Land_3"
+			"GFX_Portrait_SPL_Generic_Land_4"
+			"GFX_Portrait_SPL_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_SPL_Generic_Navy_1"
+			"GFX_Portrait_SPL_Generic_Navy_2"
+			"GFX_Portrait_SPL_Generic_Navy_3"
+			"GFX_Portrait_SPL_Generic_Navy_4"
+			"GFX_Portrait_SPL_Generic_Navy_5"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+XIN = {
+	army = {
+		male = {
+			"GFX_Portrait_XIN_Generic_Land_1"
+			"GFX_Portrait_XIN_Generic_Land_2"
+			"GFX_Portrait_XIN_Generic_Land_3"
+			"GFX_Portrait_XIN_Generic_Land_4"
+			"GFX_Portrait_XIN_Generic_Land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_XIN_Generic_Navy_1"
+			"GFX_Portrait_XIN_Generic_Navy_2"
+			"GFX_Portrait_XIN_Generic_Navy_3"
+			"GFX_Portrait_XIN_Generic_Navy_4"
+			# 4 commanders is more than enough for a land-locked nation!
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds" 
+			}
+		}
+	}
+}
+
+QCH = {
+	army = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Land_1"
+			"GFX_Portrait_TUP_Generic_Land_2"
+			"GFX_Portrait_TUP_Generic_Land_3"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Navy_1"
+			"GFX_Portrait_TUP_Generic_Navy_2"
+			"GFX_Portrait_TUP_Generic_Navy_3"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/QCH/portrait_QCH_leader_communism.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/QCH/portrait_QCH_leader_democratic.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/QCH/portrait_QCH_leader_fascism.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/QCH/portrait_QCH_leader_neutrality.dds" 
+			}
+		}
+	}
+}
+
+GRN = {
+	army = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Land_1"
+			"GFX_Portrait_TUP_Generic_Land_2"
+			"GFX_Portrait_TUP_Generic_Land_3"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Navy_1"
+			"GFX_Portrait_TUP_Generic_Navy_2"
+			"GFX_Portrait_TUP_Generic_Navy_3"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/GRN/portrait_GRN_leader_communism.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/GRN/portrait_GRN_leader_democratic.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/GRN/portrait_GRN_leader_fascism.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/GRN/portrait_GRN_leader_neutrality.dds" 
+			}
+		}
+	}
+}
+
+AYM = {
+	army = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Land_1"
+			"GFX_Portrait_TUP_Generic_Land_2"
+			"GFX_Portrait_TUP_Generic_Land_3"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Navy_1"
+			"GFX_Portrait_TUP_Generic_Navy_2"
+			"GFX_Portrait_TUP_Generic_Navy_3"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_communism.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_democratic.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_fascism.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_neutrality.dds" 
+			}
+		}
+	}
+}
+
+MPC = {
+	army = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Land_1"
+			"GFX_Portrait_TUP_Generic_Land_2"
+			"GFX_Portrait_TUP_Generic_Land_3"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Navy_1"
+			"GFX_Portrait_TUP_Generic_Navy_2"
+			"GFX_Portrait_TUP_Generic_Navy_3"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_communism.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_democratic.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_fascism.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_neutrality.dds" 
+			}
+		}
+	}
+}
+
+ARW = {
+	army = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Land_1"
+			"GFX_Portrait_TUP_Generic_Land_2"
+			"GFX_Portrait_TUP_Generic_Land_3"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_TUP_Generic_Navy_1"
+			"GFX_Portrait_TUP_Generic_Navy_2"
+			"GFX_Portrait_TUP_Generic_Navy_3"
+		}
+	}
+	
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_communism.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_democratic.dds" 
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_fascism.dds" 
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/AYM/Portrait_AYM_leader_neutrality.dds" 
+			}
+		}
+	}
+}
