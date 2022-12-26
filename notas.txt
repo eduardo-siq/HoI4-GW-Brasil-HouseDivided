@@ -147,9 +147,9 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	São Paulo {
 		# políticos
 		Rodrigues Alves
-		Fernando Prestes de Albuquerque
-		Pedro Manuel de Toledo
-		Edgard Leuenroth
+		Fernando Prestes de Albuquerque (líder neutro inicial)
+		Pedro Manuel de Toledo (líder democrata inicial)
+		Edgard Leuenroth (líder socialista inicial)
 		Benjamim Mota
 		
 		# generais
@@ -176,7 +176,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Ramiro Fortes de Barcellos
 		Plínio de Castro Casado (possível socialista)
 		Hercílio Luz
-		João Cândido ("almirante negro", pode ser socialista)
+		João Cândido ("almirante negro", pode ser socialista, democrata ou proto-fascista)
 		Euclides Egídio de Sousa Aranha (coronel)
 		Afonso d'Escragnolle Taunay
 		José Antônio Flores da Cunha

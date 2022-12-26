@@ -4,9 +4,13 @@ characters={
 	EQA_ruy_barbosa={
 		name="Ruy Barbosa de Oliveira"
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/EQA/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/EQA/Portrait_EQA_Ruy_Barbosa.dds"
+			}
+			army={
+				small = "gfx/leaders/EQA/Portrait_EQA_Ruy_Barbosa_Small"
+				large = "gfx/leaders/EQA/Portrait_EQA_Ruy_Barbosa"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
@@ -65,8 +69,6 @@ characters={
 		#portraits={
 		#	army={
 		#		small = "GFX_Portrait_EQA_ _small"
-		#	}
-		#	army={
 		#		large = "GFX_Portrait_EQA_"
 		#	}
 		#}
