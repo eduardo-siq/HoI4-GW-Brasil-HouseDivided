@@ -1,29 +1,29 @@
 characters={
 	### líderes {
 	
-	EQA_ruy_barbosa={
-		name="Ruy Barbosa de Oliveira"
+	RIO_joao_pandia_calogeras={
+		name="João Pandiá Calógeras"	# PLACEHOLDER ?	# PLACEHOLDER ?	# PLACEHOLDER ? TO-DO: buscar líder democrata melhor
 		portraits={
 			civilian={
-				large = "gfx/leaders/EQA/Portrait_EQA_Ruy_Barbosa.dds"
+				large = "gfx/leaders/RIO/Portrait_RIO_Ruy_Barbosa.dds"
 			}
 			army={
-				small = "gfx/leaders/EQA/Portrait_EQA_Ruy_Barbosa_Small.dds"
-				large = "gfx/leaders/EQA/Portrait_EQA_Ruy_Barbosa.dds"
+				small = "gfx/leaders/RIO/Portrait_RIO_Ruy_Barbosa_Small.dds"
+				large = "gfx/leaders/RIO/Portrait_RIO_Ruy_Barbosa.dds"
 			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
-			ideology=classical_liberalism
+			ideology=liberal_conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}
 	}
-	EQA_waldemar_falcao={
-		name="Waldemar Falcão"
+	RIO_alberto_torres={
+		name="Alberto Torres"
 		portraits={
 			#civilian={
-			#	large = "gfx/leaders/EQA/.dds"
+			#	large = "gfx/leaders/RIO/.dds"
 			#}
 		}
 		country_leader={
@@ -33,12 +33,16 @@ characters={
 			id=-1
 		}
 	}
-	EQA_joao_mangabeira={
-		name="João Mangabeira"
+	RIO_isabel_cristina={
+		name="Duchess Isabel"	# adicionar loc entry para eng/pt/outros depois
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/EQA/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/RIO/Portrait_RIO_Isabel_Cristina.dds"
+			}
+			army={
+				small = "gfx/leaders/RIO/Portrait_RIO_Isabel_Cristina_Small.dds"
+				large = "gfx/leaders/RIO/Portrait_RIO_Isabel_Cristina.dds"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
@@ -47,12 +51,16 @@ characters={
 			id=-1
 		}
 	}
-	EQA_joaquim_pimenta={
-		name="Joaquim Pimenta"
+	RIO_mauricio_paiva_lacerda={	# PLACEHOLDER ?	# PLACEHOLDER ?	# PLACEHOLDER ? TO-DO: buscar líder socialista melhor
+		name="Maurício Paiva de Lacerda"
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/EQA/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/RIO/Portrait_RIO_Marcelo_Paiva_Lacerda.dds"
+			}
+			army={
+				small = "gfx/leaders/RIO/Portrait_RIO_Marcelo_Paiva_Lacerda_Small.dds"
+				large = "gfx/leaders/RIO/Portrait_RIO_Marcelo_Paiva_Lacerda.dds"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
@@ -64,12 +72,12 @@ characters={
 
 	###} generais {
 	
-	EQA_tertuliano_potiguara={
+	RIO_tertuliano_potiguara={
 		name="Tertuliano Potiguara"
 		#portraits={
 		#	army={
-		#		small = "GFX_Portrait_EQA_ _small"
-		#		large = "GFX_Portrait_EQA_"
+		#		small = "GFX_Portrait_RIO_ _small"
+		#		large = "GFX_Portrait_RIO_"
 		#	}
 		#}
 		field_marshal={
@@ -85,12 +93,12 @@ characters={
 	
 	###} almirantes {
 	
-	EQA_navy_leader={
+	RIO_navy_leader={
 		#name="Antônio Alves Câmara"
 		#portraits={
 		#	navy={
-		#		small = "GFX_Portrait_EQA_Antonio_Alves_Camara_small"
-		#		large = "GFX_Portrait_EQA_Antonio_Alves_Camara"
+		#		small = "GFX_Portrait_RIO_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_RIO_Antonio_Alves_Camara"
 		#	}
 		#}
 		navy_leader={
@@ -105,10 +113,10 @@ characters={
 	
 	###} advisers {
 	
-	EQA_assis_chateaubriand={
+	RIO_assis_chateaubriand={
 		advisor={
 			slot = political_advisor
-			idea_token = EQA_assis_chateaubriand
+			idea_token = RIO_assis_chateaubriand
 			allowed  = {
 					original_tag  = EQA
 				}
@@ -119,21 +127,21 @@ characters={
 					factor  = 25.000
 				}
 		}
-		name="EQA_assis_chateaubriand"
+		name="RIO_assis_chateaubriand"
 		portraits={
 			army={
-				small = "GFX_idea_EQA_assis_chateaubriand"
+				small = "GFX_idea_RIO_assis_chateaubriand"
 			}
 		}
 	}
 	
 	###} theorists {
 	
-	EQA_air_theorist={
+	RIO_air_theorist={
 		advisor={
 			slot = theorist
 			cost = 100
-			idea_token = EQA_air_theorist
+			idea_token = RIO_air_theorist
 			ledger  = air 
 			allowed  = {
 				original_tag  = EQA
@@ -142,18 +150,18 @@ characters={
 				air_theorist 
 			}
 		}
-		#name="EQA_air_theorist"
+		#name="RIO_air_theorist"
 		portraits={
 			army={
-				small = "GFX_Portrait_EQA_Generic_Navy_5_small"
+				small = "GFX_Portrait_RIO_Generic_Navy_5_small"
 			}
 		}
 	}
-	EQA_land_theorist={
+	RIO_land_theorist={
 		advisor={
 			slot = theorist
 			cost = 100
-			idea_token = EQA_land_theorist
+			idea_token = RIO_land_theorist
 			ledger  = army 
 			allowed  = {
 				original_tag  = EQA
@@ -162,18 +170,18 @@ characters={
 				land_theorist 
 			}
 		}
-		#name="EQA_land_theorist"
+		#name="RIO_land_theorist"
 		portraits={
 			army={
-				small = "GFX_Portrait_EQA_Generic_Navy_5_small"
+				small = "GFX_Portrait_RIO_Generic_Navy_5_small"
 			}
 		}
 	}
-	EQA_navy_theorist={
+	RIO_navy_theorist={
 		advisor={
 			slot = theorist
 			cost = 100
-			idea_token = EQA_naval_theorist
+			idea_token = RIO_naval_theorist
 			ledger  = navy 
 			allowed  = {
 				original_tag  = EQA
@@ -183,20 +191,20 @@ characters={
 				naval_theorist 
 			}
 		}
-		#name="EQA_naval_theorist"
+		#name="RIO_naval_theorist"
 		portraits={
 			army={
-				small = "GFX_Portrait_EQA_Generic_Navy_5_small"
+				small = "GFX_Portrait_RIO_Generic_Navy_5_small"
 			}
 		}
 	}
 	
 	###} military staff {
 	
-	EQA_juarez_tavora={
+	RIO_juarez_tavora={
 		advisor={
 			slot = army_chief
-			idea_token = EQA_juarez_tavora
+			idea_token = RIO_juarez_tavora
 			cost = 100
 			ledger  = army 
 				allowed  = {
@@ -209,10 +217,10 @@ characters={
 					factor  = 1.000
 				}
 		}
-		name="EQA_juarez_tavora"
+		name="RIO_juarez_tavora"
 		portraits={
 			army={
-				small = "GFX_idea_EQA_juarez_tavora"
+				small = "GFX_idea_RIO_juarez_tavora"
 			}
 		}
 	}

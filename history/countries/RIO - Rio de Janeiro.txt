@@ -1,4 +1,4 @@
-﻿capital = 875
+﻿capital = 500
 #oob = "BRA_1910"
 
 set_research_slots = 3
@@ -7,19 +7,19 @@ set_war_support = 0.19
 set_convoys = 42
 
 # líderes
-recruit_character = EQA_ruy_barbosa
-recruit_character = EQA_waldemar_falcao
-recruit_character = EQA_joao_mangabeira
-recruit_character = EQA_joaquim_pimenta
+recruit_character = RIO_joao_pandia_calogeras
+recruit_character = RIO_alberto_torres
+recruit_character = RIO_isabel_cristina
+recruit_character = RIO_mauricio_paiva_lacerda
 
 # advisers
-recruit_character = RIO_assis_chateaubriand
+recruit_character = EQA_assis_chateaubriand
 
 # generais
-recruit_character = RIO_tertuliano_potiguara
+recruit_character = EQA_tertuliano_potiguara
 
 # almirantes
-recruit_character = RIO_navy_leader
+recruit_character = EQA_navy_leader
 
 1910.1.1 = {
 	set_technology = {
@@ -53,14 +53,14 @@ recruit_character = RIO_navy_leader
 	set_popularities = {
 		fascism = 3
 		communism = 5
-		democratic = 61
-		neutrality = 31
+		democratic = 31
+		neutrality = 61
 	}
 }
 1914.1.1 = {
 
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = neutrality
 		last_election = "1910.11.15" 
 		election_frequency = 48 
 		elections_allowed = yes 

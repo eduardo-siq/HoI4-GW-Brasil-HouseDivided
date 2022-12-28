@@ -58,9 +58,9 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Nilo Peçanha
 		Duquesa Isabel
 		Washington Luís
-		João Pandiá Calógeras
-		José Maria da Silva Paranhos Júnior
-		Alberto Torres (possível proto-fascista)
+		João Pandiá Calógeras (possível democrata, se não houver mais ninguém, talvez adviser para modernização do exército)
+		José Maria da Silva Paranhos Júnior (barão do rio branco)
+		Alberto Torres (possível proto-fascista, melhor como adviser)
 		Evaristo de Morais
 		Maurício Paiva de Lacerda (um pouvo jovem, possível socialista)
 		
@@ -80,6 +80,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Ricardo Kirk (aviador)
 		
 		# partidos & eventos
+		"luzias", "saquaremas", "exaltados", "restauradores"
 	}
 	Grão-Pará {
 		# políticos 
@@ -132,6 +133,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Afrânio de Melo Franco
 		Olegário Maciel (possível democrata)
 		Antônio Carlos Ribeiro de Andrada (possível democrata)
+		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista)
 		
 		# almirantes
 		Jorge Dodsworth Martins (um pouco jovem)
