@@ -30,12 +30,12 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Epitácio Pessoa
 		Ruy Barbosa (líder democrata)
 		Francisco Heráclio do Rego (coronel)
-		João Mangabeira
+		João Mangabeira (líder neutro)
 		João Pessoa Cavalcanti de Albuquerque
 		Waldemar Falcão (um pouco jovem, possível proto-fascista)
 		Manuel de Oliveira Lima
 		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
-		Joaquim Pimenta
+		Joaquim Pimenta (líder socialista)
 		
 		# generais & oficiais
 		Vespasiano Gonçalves de Albuquerque e Silva
@@ -43,14 +43,18 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
 		João Gualberto Gomes de Sá Filho
 		Tertuliano Potiguara
+		Antônio Silvino (cangaceiro)
 		
 		# almirantes
 		
 		# outros
+		Padre Cícero
+
 		
 		# empresas
 		
 		# partidos & eventos
+		Batalhões patrióticos
 		
 	}
 	Ducado da Guanabara {
@@ -89,6 +93,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Joaquim de Magalhães Barata (um pouco jovem, possível socialista)
 		José Carneiro da Gama Malcher
 		Silvério José Néri
+		Graça Aranha (possível democrata)
 		
 		# generais & oficiais
 		Augusto Tasso Fragoso
@@ -165,7 +170,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# outros
 		Emílio Ribas
 		Oswaldo Cruz
-		Francesco Matarazzo
+		Francesco Matarazzo (capitão da indústria)
+		Carlos Leôncio de Magalhães (banqueiro)
 		
 		# empresas
 		
@@ -173,7 +179,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	República Riograndense {
 		# políticos
-		Borges de Medeiros
+		Borges de Medeiros (líder neutro inicial)
 		Joaquim Francisco de Assis Brasil
 		Ramiro Fortes de Barcellos
 		Plínio de Castro Casado (possível socialista)
