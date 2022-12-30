@@ -26,16 +26,17 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Confederação do Equador {
 		# políticos
+		Ruy Barbosa (líder democrata inicial)
+		João Mangabeira (líder neutro inicial)
+		Joaquim Pimenta (líder socialista inicial)
+		Waldemar Falcão (um pouco jovem, possível proto-fascista)
+		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
 		Hermes da Fonseca (nasceu no Rio Grande do Sul mas a família era de Alagoas)
 		Epitácio Pessoa
-		Ruy Barbosa (líder democrata)
 		Francisco Heráclio do Rego (coronel)
-		João Mangabeira (líder neutro)
 		João Pessoa Cavalcanti de Albuquerque
-		Waldemar Falcão (um pouco jovem, possível proto-fascista)
 		Manuel de Oliveira Lima
-		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
-		Joaquim Pimenta (líder socialista)
+		Miguel Calmon Du Pin e Almeida (possível adviser democrata)
 		
 		# generais & oficiais
 		Vespasiano Gonçalves de Albuquerque e Silva
@@ -59,20 +60,23 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Ducado da Guanabara {
 		# políticos
-		Nilo Peçanha
-		Duquesa Isabel
-		Washington Luís
-		João Pandiá Calógeras (possível democrata, se não houver mais ninguém, talvez adviser para modernização do exército)
-		José Maria da Silva Paranhos Júnior (barão do rio branco)
+		Duquesa Isabel (para o sistema de PM, líder de todas as ideologias)
+		José Maria da Silva Paranhos Júnior (barão do rio branco, PM neutro inicial)
+		Nilo Peçanha (PM neutro após a morte de Paranhos)
 		Alberto Torres (possível proto-fascista, melhor como adviser)
-		Evaristo de Morais
 		Maurício Paiva de Lacerda (um pouvo jovem, possível socialista)
+		Luiz Martins de Souza Dantas (possível PM democrata, diplomata)
+		João Pandiá Calógeras (adviser para modernização do exército)
+		Washington Luís
+		Evaristo de Morais
 		
 		# generais
 		Francisco Jaguaribe Gomes de Matos (um pouco jovem, possível democrata)
 		Nicolau Bueno Horta Barbosa (possível democrata)
 		Manuel Rabelo
 		Alberto Cardoso de Aguiar
+		Carlos Eugênio de Andrade Guimarães
+		José Caetano de Faria ("A Defesa Nacional", teorista)
 		
 		# almirantes
 		Antônio Coutinho Gomes Pereira
@@ -80,14 +84,19 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Henrique Aristides Guilhem
 		
 		# outros
+		Olavo Bilac (escritor nacionalista)
 		Adolfo Lutz
 		Ricardo Kirk (aviador)
 		
 		# partidos & eventos
 		"luzias", "saquaremas", "exaltados", "restauradores"
+		Escolas de Aprendizes e Artífices
+		Escola Militar do Brasil
+		Liga da Defesa Nacional
 	}
 	Grão-Pará {
 		# políticos 
+		Raimundo Teixeira Mendes (líder democrata inicial)
 		Justo Chermont
 		Gentil Augusto de Morais Bittencourt
 		Joaquim de Magalhães Barata (um pouco jovem, possível socialista)
@@ -113,6 +122,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# políticos
 		Joaquim Augusto da Costa Marques
 		Pedro Celestino Corrêa da Costa
+		José Leopoldo de Bulhões Jardim (financista, senador)
 
 		# generais & oficiais
 		Cândido Rondon
@@ -139,6 +149,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Olegário Maciel (possível democrata)
 		Antônio Carlos Ribeiro de Andrada (possível democrata)
 		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista)
+		Pedro Lessa (possível democrata)
 		
 		# almirantes
 		Jorge Dodsworth Martins (um pouco jovem)
@@ -172,6 +183,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Oswaldo Cruz
 		Francesco Matarazzo (capitão da indústria)
 		Carlos Leôncio de Magalhães (banqueiro)
+		Júlio de Mesquita ("O Estado de São Paulo")
 		
 		# empresas
 		
@@ -189,6 +201,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Afonso d'Escragnolle Taunay
 		José Antônio Flores da Cunha
 		José Maria de Santo Agostinho (monge messiânico)
+		João Cezimbra Jacques (militar, político, nacionalista, possível proto-fascista se não houver candidatos melhores)
 		
 		# generais & oficiais
 		Setembrino de Carvalho
