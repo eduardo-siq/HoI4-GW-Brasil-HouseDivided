@@ -1,0 +1,208 @@
+characters={
+	### líderes {
+	
+	ACR_jose_placido_castro = {
+		name="José Plácido de Castro"
+		portraits={
+			civilian={
+				large = "gfx/leaders/ACR/Portrait_ACR_Jose_Placido_Castro.dds"
+			}
+			army={
+				small = "gfx/leaders/ACR/Portrait_ACR_Jose_Placido_Castro_Small.dds"
+				large = "gfx/leaders/ACR/Portrait_ACR_Jose_Placido_Castro.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=liberal_conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	ACR_fascist_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/ACR/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	ACR_luis_galvez_rodriguez = {
+		name="Luis Gálvez Rodríguez de Arias"
+		portraits={
+			civilian={
+				large = "gfx/leaders/ACR/Portrait_ACR_Luis_Galvez_Rodriguez.dds"
+			}
+			army={
+				small = "gfx/leaders/ACR/Portrait_ACR_Luis_Galvez_Rodriguez_Small.dds"
+				large = "gfx/leaders/ACR/Portrait_ACR_Luis_Galvez_Rodriguez.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	ACR_socialist_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/ACR/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	ACR_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_ACR_ _small"
+		#		large = "GFX_Portrait_ACR_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	# Acre is landlocked
+	
+	###} advisers {
+	
+	ACR_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = ACR_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="ACR_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_ACR_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	ACR_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = ACR_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="ACR_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_ACR_Generic_Navy_5_small"
+			}
+		}
+	}
+	ACR_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = ACR_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="ACR_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_ACR_Generic_Navy_5_small"
+			}
+		}
+	}
+	ACR_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = ACR_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="ACR_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_ACR_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	ACR_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = ACR_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="ACR_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_ACR_juarez_tavora"
+			}
+		}
+	}
+	###}
+}

@@ -29,14 +29,16 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Ruy Barbosa (líder democrata inicial)
 		João Mangabeira (líder neutro inicial)
 		Joaquim Pimenta (líder socialista inicial)
-		Waldemar Falcão (um pouco jovem, possível proto-fascista)
-		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
+		Artur Neiva (possível líder proto-fascista, eugenista)
+		Afrânio Peixoto (possível adviser proto-fascista, eugenista)
 		Hermes da Fonseca (nasceu no Rio Grande do Sul mas a família era de Alagoas)
 		Epitácio Pessoa
 		Francisco Heráclio do Rego (coronel)
 		João Pessoa Cavalcanti de Albuquerque
 		Manuel de Oliveira Lima
 		Miguel Calmon Du Pin e Almeida (possível adviser democrata)
+		Waldemar Falcão (um pouco jovem, possível proto-fascista)
+		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
 		
 		# generais & oficiais
 		Vespasiano Gonçalves de Albuquerque e Silva
@@ -97,12 +99,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	Grão-Pará {
 		# políticos 
 		Raimundo Teixeira Mendes (líder democrata inicial)
-		Justo Chermont
-		Gentil Augusto de Morais Bittencourt
+		José Carneiro da Gama Malcher (possível proto-fascista, interventor do Estado Novo)
+		João Antônio Luís Coelho (líder neutro inicial)
 		Joaquim de Magalhães Barata (um pouco jovem, possível socialista)
-		José Carneiro da Gama Malcher
-		Silvério José Néri
+		Eneias Martins (possível adviser neutro, editor de jornal)
+		Justo Chermont (possível adviser democrático, diplomata)
 		Graça Aranha (possível democrata)
+		Silvério José Néri (apoiou o Acre, pode fazer parte de um path de amizade/anexação)
 		
 		# generais & oficiais
 		Augusto Tasso Fragoso
@@ -116,7 +119,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# empresas
 		
 		# partidos & eventos
-		
+		Jacques Huber: plano de recuperação da borracha
 	}
 	Mato Grosso {
 		# políticos
@@ -141,13 +144,12 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Minas Gerais {
 		# políticos
-		Afonso Pena
-		Venceslau Brás
-		Delfim Moreira
-		Arthur Bernardes
-		Afrânio de Melo Franco
-		Olegário Maciel (possível democrata)
-		Antônio Carlos Ribeiro de Andrada (possível democrata)
+		Venceslau Brás (líder neutro inicial)
+		Belisário Penna (líder proto-fascista inicial)
+		Antônio Carlos Ribeiro de Andrada (líder democrata inicial [talvez Afrânio de Melo Franco seja melhor)
+		Afrânio de Melo Franco (possível líder democrata)
+		Olegário Maciel (possível adviser democrata)
+		Arthur Bernardes (possível adviser neutro)
 		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista)
 		Pedro Lessa (possível democrata)
 		
@@ -164,17 +166,19 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	São Paulo {
 		# políticos
-		Rodrigues Alves
 		Fernando Prestes de Albuquerque (líder neutro inicial)
 		Pedro Manuel de Toledo (líder democrata inicial)
 		Edgard Leuenroth (líder socialista inicial)
-		Benjamim Mota
+		Renato Kehl (proto-fascista, eugenista)
+		Benjamim Mota (adviser socialista)
+		Altino Arantes (possível adviser neutro, silent workhorse)
+		Rodrigues Alves (possível adviser neutro)
 		
 		# generais
-		Miguel Costa (um pouco jovem)
 		Victoriano Clementino Salgado
 		Brasílio Taborda
 		Francisco Júlio César de Alfieri (italiano)
+		Miguel Costa (um pouco jovem)
 		
 		# almirantes
 		
@@ -184,6 +188,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Francesco Matarazzo (capitão da indústria)
 		Carlos Leôncio de Magalhães (banqueiro)
 		Júlio de Mesquita ("O Estado de São Paulo")
+		Ramos de Azevedo (arquiteto)
 		
 		# empresas
 		
@@ -192,16 +197,16 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	República Riograndense {
 		# políticos
 		Borges de Medeiros (líder neutro inicial)
-		Joaquim Francisco de Assis Brasil
+		Joaquim Francisco de Assis Brasil (líder democrada inicial)
+		Plínio de Castro Casado (possível líder socialista)
+		Euclides Egídio de Sousa Aranha (coronel, adviser neutro)
+		João Cezimbra Jacques (militar, político, nacionalista, possível proto-fascista se não houver candidatos melhores)
 		Ramiro Fortes de Barcellos
-		Plínio de Castro Casado (possível socialista)
 		Hercílio Luz
-		João Cândido ("almirante negro", pode ser socialista, democrata ou proto-fascista)
-		Euclides Egídio de Sousa Aranha (coronel)
 		Afonso d'Escragnolle Taunay
 		José Antônio Flores da Cunha
+		João Cândido ("almirante negro", pode ser socialista, democrata ou proto-fascista)
 		José Maria de Santo Agostinho (monge messiânico)
-		João Cezimbra Jacques (militar, político, nacionalista, possível proto-fascista se não houver candidatos melhores)
 		
 		# generais & oficiais
 		Setembrino de Carvalho

@@ -1,0 +1,224 @@
+characters={
+	### líderes {
+	
+	MNG_antonio_carlos_andrada ={
+		name="Antônio Carlos Ribeiro de Andrada"
+		portraits={
+			civilian={
+				large = "gfx/leaders/MNG/Portrait_MNG_Antonio_Carlos_Andrada.dds"
+			}
+			army={
+				small = "gfx/leaders/MNG/Portrait_MNG_Antonio_Carlos_Andrada_Small.dds"
+				large = "gfx/leaders/MNG/Portrait_MNG_Antonio_Carlos_Andrada.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=liberal_conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	MNG_belisario_penna ={
+		name="Belisário Penna"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/MNG/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	MNG_venceslau_bras ={
+		name="Venceslau Brás"
+		portraits={
+			civilian={
+				large = "gfx/leaders/MNG/Portrait_MNG_Venceslau_Bras.dds"
+			}
+			army={
+				small = "gfx/leaders/MNG/Portrait_MNG_Venceslau_Bras_Small.dds"
+				large = "gfx/leaders/MNG/Portrait_MNG_Venceslau_Bras.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	MNG_socialist_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/MNG/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	MNG_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_MNG_ _small"
+		#		large = "GFX_Portrait_MNG_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	MNG_navy_leader={
+		#name="Antônio Alves Câmara"
+		#portraits={
+		#	navy={
+		#		small = "GFX_Portrait_MNG_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_MNG_Antonio_Alves_Camara"
+		#	}
+		#}
+		navy_leader={
+			skill=2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+			legacy_id=-1
+		}
+	}
+	
+	###} advisers {
+	
+	MNG_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = MNG_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="MNG_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_MNG_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	MNG_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = MNG_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="MNG_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_MNG_Generic_Navy_5_small"
+			}
+		}
+	}
+	MNG_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = MNG_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="MNG_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_MNG_Generic_Navy_5_small"
+			}
+		}
+	}
+	MNG_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = MNG_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="MNG_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_MNG_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	MNG_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = MNG_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="MNG_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_MNG_juarez_tavora"
+			}
+		}
+	}
+	###}
+}

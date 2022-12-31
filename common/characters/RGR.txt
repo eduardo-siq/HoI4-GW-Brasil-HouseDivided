@@ -1,0 +1,224 @@
+characters={
+	### líderes {
+	
+	RGR_joaquim_franscisco_brasil ={
+		name="Joaquim Francisco de Assis Brasil"
+		portraits={
+			civilian={
+				large = "gfx/leaders/RGR/Portrait_RGR_Joaquim_Francisco_Brasil.dds"
+			}
+			army={
+				small = "gfx/leaders/RGR/Portrait_RGR_Joaquim_Francisco_Brasil_Small.dds"
+				large = "gfx/leaders/RGR/Portrait_RGR_Joaquim_Francisco_Brasil.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=liberal_conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	RGR_joao_cezimbra_jacques ={
+		name="João Cezimbra Jacques"	# PLACEHOLDER ?	# PLACEHOLDER ?	# PLACEHOLDER ? TO-DO: buscar líder proto-fascista melhor
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/RGR/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	RGR_borges_medeiros ={
+		name="Borges de Medeiros"
+		portraits={
+			civilian={
+				large = "gfx/leaders/RGR/Portrait_RGR_Borges_Medeiros.dds"
+			}
+			army={
+				small = "gfx/leaders/RGR/Portrait_RGR_Borges_Medeiros_Small.dds"
+				large = "gfx/leaders/RGR/Portrait_RGR_Borges_Medeiros.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	RGR_plinio_castro_casado ={
+		name="Plínio de Castro Casado"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/RGR/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	RGR_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_RGR_ _small"
+		#		large = "GFX_Portrait_RGR_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	RGR_navy_leader={
+		#name="Antônio Alves Câmara"
+		#portraits={
+		#	navy={
+		#		small = "GFX_Portrait_RGR_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_RGR_Antonio_Alves_Camara"
+		#	}
+		#}
+		navy_leader={
+			skill=2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+			legacy_id=-1
+		}
+	}
+	
+	###} advisers {
+	
+	RGR_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = RGR_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="RGR_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_RGR_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	RGR_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = RGR_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="RGR_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_RGR_Generic_Navy_5_small"
+			}
+		}
+	}
+	RGR_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = RGR_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="RGR_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_RGR_Generic_Navy_5_small"
+			}
+		}
+	}
+	RGR_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = RGR_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="RGR_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_RGR_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	RGR_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = RGR_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="RGR_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_RGR_juarez_tavora"
+			}
+		}
+	}
+	###}
+}

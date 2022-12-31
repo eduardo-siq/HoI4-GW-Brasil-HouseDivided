@@ -1,0 +1,216 @@
+characters={
+	### líderes {
+	
+	XIN_democratic_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/XIN/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=liberal_conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	XIN_fascist_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/XIN/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	XIN_neutrality_leader ={
+		#name="="
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/XIN/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	XIN_socialist_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/XIN/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	XIN_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_XIN_ _small"
+		#		large = "GFX_Portrait_XIN_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	XIN_navy_leader={
+		#name="Antônio Alves Câmara"
+		#portraits={
+		#	navy={
+		#		small = "GFX_Portrait_XIN_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_XIN_Antonio_Alves_Camara"
+		#	}
+		#}
+		navy_leader={
+			skill=2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+			legacy_id=-1
+		}
+	}
+	
+	###} advisers {
+	
+	XIN_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = XIN_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="XIN_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_XIN_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	XIN_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = XIN_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="XIN_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_XIN_Generic_Navy_5_small"
+			}
+		}
+	}
+	XIN_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = XIN_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="XIN_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_XIN_Generic_Navy_5_small"
+			}
+		}
+	}
+	XIN_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = XIN_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="XIN_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_XIN_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	XIN_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = XIN_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="XIN_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_XIN_juarez_tavora"
+			}
+		}
+	}
+	###}
+}

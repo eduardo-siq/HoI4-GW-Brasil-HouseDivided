@@ -1,0 +1,224 @@
+characters={
+	### líderes {
+	
+	GPA_raimundo_teixeira_mendes ={
+		name="Raimundo Teixeira Mendes"
+		portraits={
+			civilian={
+				large = "gfx/leaders/GPA/Portrait_GPA_Raimundo_Teixeira_Mendes.dds"
+			}
+			army={
+				small = "gfx/leaders/GPA/Portrait_GPA_Raimundo_Teixeira_Mendes_Small.dds"
+				large = "gfx/leaders/GPA/Portrait_GPA_Raimundo_Teixeira_Mendes.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=liberal_conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	GPA_jose_carneiro_gama_malcher ={
+		name="José Carneiro da Gama Malcher"
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/GPA/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	GPA_joao_antonio_coelho ={
+		name="João Antônio Luís Coelho"	# adicionar loc entry para eng/pt/outros depois
+		portraits={
+			civilian={
+				large = "gfx/leaders/GPA/Portrait_GPA_Joao_antonio_coelho.dds"
+			}
+			army={
+				small = "gfx/leaders/GPA/Portrait_GPA_Joao_antonio_coelho_Small.dds"
+				large = "gfx/leaders/GPA/Portrait_GPA_Joao_antonio_coelho.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	GPA_socialist_leader ={
+		#name=""
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/GPA/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	GPA_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_GPA_ _small"
+		#		large = "GFX_Portrait_GPA_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	GPA_navy_leader={
+		#name="Antônio Alves Câmara"
+		#portraits={
+		#	navy={
+		#		small = "GFX_Portrait_GPA_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_GPA_Antonio_Alves_Camara"
+		#	}
+		#}
+		navy_leader={
+			skill=2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+			legacy_id=-1
+		}
+	}
+	
+	###} advisers {
+	
+	GPA_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = GPA_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="GPA_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_GPA_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	GPA_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = GPA_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="GPA_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_GPA_Generic_Navy_5_small"
+			}
+		}
+	}
+	GPA_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = GPA_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="GPA_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_GPA_Generic_Navy_5_small"
+			}
+		}
+	}
+	GPA_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = GPA_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="GPA_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_GPA_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	GPA_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = GPA_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="GPA_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_GPA_juarez_tavora"
+			}
+		}
+	}
+	###}
+}

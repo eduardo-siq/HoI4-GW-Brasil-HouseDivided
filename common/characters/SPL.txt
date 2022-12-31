@@ -1,0 +1,228 @@
+characters={
+	### líderes {
+	
+	SPL_pedro_manuel_toledo ={
+		name="Pedro Manuel de Toledo"
+		portraits={
+			civilian={
+				large = "gfx/leaders/SPL/Portrait_SPL_Pedro_Manuel_Toledo.dds"
+			}
+			army={
+				small = "gfx/leaders/SPL/Portrait_SPL_Pedro_Manuel_Toledo_Small.dds"
+				large = "gfx/leaders/SPL/Portrait_SPL_Pedro_Manuel_Toledo.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=liberal_conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	SPL_renato_kehl ={
+		name="Renato Kehl"	# PLACEHOLDER ?	# PLACEHOLDER ?	# PLACEHOLDER ? TO-DO: buscar líder proto-fascista melhor
+		portraits={
+			#civilian={
+			#	large = "gfx/leaders/SPL/.dds"
+			#}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	SPL_fernando_prestes_albuquerque ={
+		name="Fernando Prestes de Albuquerque"
+		portraits={
+			civilian={
+				large = "gfx/leaders/SPL/Portrait_SPL_Fernando_Prestes_Albuquerque.dds"
+			}
+			army={
+				small = "gfx/leaders/SPL/Portrait_SPL_Fernando_Prestes_Albuquerque_Small.dds"
+				large = "gfx/leaders/SPL/Portrait_SPL_Fernando_Prestes_Albuquerque.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	SPL_edgard_leuenroth ={
+		name="Edgard Leuenroth"
+		portraits={
+			civilian={
+				large = "gfx/leaders/SPL/Portrait_SPL_Edgard_Leuenroth.dds"
+			}
+			army={
+				small = "gfx/leaders/SPL/Portrait_SPL_Edgard_Leuenroth_Small.dds"
+				large = "gfx/leaders/SPL/Portrait_SPL_Edgard_Leuenroth.dds"
+			}
+		}
+		country_leader={
+			desc="POLITICS_GETULIO_VARGAS_DESC"
+			ideology=syndicalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	###} generais {
+	
+	SPL_tertuliano_potiguara={
+		name="Tertuliano Potiguara"
+		#portraits={
+		#	army={
+		#		small = "GFX_Portrait_SPL_ _small"
+		#		large = "GFX_Portrait_SPL_"
+		#	}
+		#}
+		field_marshal={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=3
+			legacy_id=-1
+		}
+	}
+	
+	###} almirantes {
+	
+	SPL_navy_leader={
+		#name="Antônio Alves Câmara"
+		#portraits={
+		#	navy={
+		#		small = "GFX_Portrait_SPL_Antonio_Alves_Camara_small"
+		#		large = "GFX_Portrait_SPL_Antonio_Alves_Camara"
+		#	}
+		#}
+		navy_leader={
+			skill=2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+			legacy_id=-1
+		}
+	}
+	
+	###} advisers {
+	
+	SPL_assis_chateaubriand={
+		advisor={
+			slot = political_advisor
+			idea_token = SPL_assis_chateaubriand
+			allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					media_mogul 
+				}
+				ai_will_do  = {
+					factor  = 25.000
+				}
+		}
+		name="SPL_assis_chateaubriand"
+		portraits={
+			army={
+				small = "GFX_idea_SPL_assis_chateaubriand"
+			}
+		}
+	}
+	
+	###} theorists {
+	
+	SPL_air_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = SPL_air_theorist
+			ledger  = air 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				air_theorist 
+			}
+		}
+		#name="SPL_air_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_SPL_Generic_Navy_5_small"
+			}
+		}
+	}
+	SPL_land_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = SPL_land_theorist
+			ledger  = army 
+			allowed  = {
+				original_tag  = EQA
+			}
+			traits  = {
+				land_theorist 
+			}
+		}
+		#name="SPL_land_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_SPL_Generic_Navy_5_small"
+			}
+		}
+	}
+	SPL_navy_theorist={
+		advisor={
+			slot = theorist
+			cost = 100
+			idea_token = SPL_naval_theorist
+			ledger  = navy 
+			allowed  = {
+				original_tag  = EQA
+			}
+			
+			traits  = {
+				naval_theorist 
+			}
+		}
+		#name="SPL_naval_theorist"
+		portraits={
+			army={
+				small = "GFX_Portrait_SPL_Generic_Navy_5_small"
+			}
+		}
+	}
+	
+	###} military staff {
+	
+	SPL_juarez_tavora={
+		advisor={
+			slot = army_chief
+			idea_token = SPL_juarez_tavora
+			cost = 100
+			ledger  = army 
+				allowed  = {
+					original_tag  = EQA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+		name="SPL_juarez_tavora"
+		portraits={
+			army={
+				small = "GFX_idea_SPL_juarez_tavora"
+			}
+		}
+	}
+	###}
+}
