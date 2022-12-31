@@ -169,7 +169,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Fernando Prestes de Albuquerque (líder neutro inicial)
 		Pedro Manuel de Toledo (líder democrata inicial)
 		Edgard Leuenroth (líder socialista inicial)
-		Renato Kehl (proto-fascista, eugenista)
+		Francisco das Chagas Salgado (proto-fascista, pai de Plínio Salgado)
+		Renato Kehl (adviser proto-fascista, eugenista)
 		Benjamim Mota (adviser socialista)
 		Altino Arantes (possível adviser neutro, silent workhorse)
 		Rodrigues Alves (possível adviser neutro)
@@ -177,7 +178,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# generais
 		Victoriano Clementino Salgado
 		Brasílio Taborda
-		Francisco Júlio César de Alfieri (italiano)
+		Francisco Júlio César de Alfieri (italiano, possível democrata, possível theorist)
 		Miguel Costa (um pouco jovem)
 		
 		# almirantes

@@ -114,7 +114,7 @@ characters={
 			slot = political_advisor
 			idea_token = RGR_assis_chateaubriand
 			allowed  = {
-					original_tag  = EQA
+					original_tag  = RGR
 				}
 				traits  = {
 					media_mogul 
@@ -140,7 +140,7 @@ characters={
 			idea_token = RGR_air_theorist
 			ledger  = air 
 			allowed  = {
-				original_tag  = EQA
+				original_tag  = RGR
 			}
 			traits  = {
 				air_theorist 
@@ -160,7 +160,7 @@ characters={
 			idea_token = RGR_land_theorist
 			ledger  = army 
 			allowed  = {
-				original_tag  = EQA
+				original_tag  = RGR
 			}
 			traits  = {
 				land_theorist 
@@ -180,7 +180,7 @@ characters={
 			idea_token = RGR_naval_theorist
 			ledger  = navy 
 			allowed  = {
-				original_tag  = EQA
+				original_tag  = RGR
 			}
 			
 			traits  = {
@@ -204,7 +204,7 @@ characters={
 			cost = 100
 			ledger  = army 
 				allowed  = {
-					original_tag  = EQA
+					original_tag  = RGR
 				}
 				traits  = {
 					army_chief_organizational_2 
