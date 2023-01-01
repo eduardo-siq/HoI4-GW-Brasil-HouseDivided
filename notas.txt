@@ -79,6 +79,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Alberto Cardoso de Aguiar
 		Carlos Eugênio de Andrade Guimarães
 		José Caetano de Faria ("A Defesa Nacional", teorista)
+		Antônio Gastão de Orléans e Bragança (príncipe, aviador)
+		Luís de Orléans e Bragança (príncipe, militar)
 		
 		# almirantes
 		Antônio Coutinho Gomes Pereira

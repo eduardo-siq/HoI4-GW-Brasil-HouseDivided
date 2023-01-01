@@ -8,9 +8,9 @@ set_convoys = 42
 
 # líderes
 recruit_character = SPL_edgard_leuenroth
-recruit_character = SPL_rodrigues_alves
-recruit_character = SPL_joao_prestes
-recruit_character = SPL_jones_emanuel
+recruit_character = SPL_pedro_manuel_toledo
+recruit_character = SPL_francisco_chagas_salgado
+recruit_character = SPL_fernando_prestes_albuquerque
 
 # advisers
 recruit_character = SPL_ruan_leao

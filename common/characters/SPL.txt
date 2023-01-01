@@ -22,9 +22,13 @@ characters={
 	SPL_francisco_chagas_salgado ={
 		name="Francisco das Chagas Salgado"	# pai de Plínio Salgado
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/SPL/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/SPL/Portrait_SPL_Francisco_Chagas_Salgado.dds"
+			}
+			army={
+				small = "gfx/leaders/SPL/Portrait_SPL_Francisco_Chagas_Salgado_Small.dds"
+				large = "gfx/leaders/SPL/Portrait_SPL_Francisco_Chagas_Salgado.dds"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
