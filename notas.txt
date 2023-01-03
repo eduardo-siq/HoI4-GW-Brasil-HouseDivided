@@ -26,12 +26,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Confederação do Equador {
 		# políticos
+			# líderes
 		Ruy Barbosa (líder democrata inicial)
 		João Mangabeira (líder neutro inicial)
 		Joaquim Pimenta (líder socialista inicial)
 		Artur Neiva (possível líder proto-fascista, eugenista)
+			# ministros
 		Afrânio Peixoto (possível adviser proto-fascista, eugenista)
-		Hermes da Fonseca (nasceu no Rio Grande do Sul mas a família era de Alagoas)
 		Epitácio Pessoa
 		Francisco Heráclio do Rego (coronel)
 		João Pessoa Cavalcanti de Albuquerque
@@ -41,6 +42,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
 		
 		# generais & oficiais
+		Hermes da Fonseca (possível líder proto-fascista, nasceu no Rio Grande do Sul mas a família era de Alagoas)
 		Vespasiano Gonçalves de Albuquerque e Silva
 		João Gomes Ribeiro Filho
 		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
@@ -62,12 +64,14 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Ducado da Guanabara {
 		# políticos
+			# líderes
 		Duquesa Isabel (para o sistema de PM, líder de todas as ideologias)
 		José Maria da Silva Paranhos Júnior (barão do rio branco, PM neutro inicial)
 		Nilo Peçanha (PM neutro após a morte de Paranhos)
+		Luiz Martins de Souza Dantas (possível PM democrata, diplomata)
+			# ministros
 		Alberto Torres (possível proto-fascista, melhor como adviser)
 		Maurício Paiva de Lacerda (um pouvo jovem, possível socialista)
-		Luiz Martins de Souza Dantas (possível PM democrata, diplomata)
 		João Pandiá Calógeras (adviser para modernização do exército)
 		Washington Luís
 		Evaristo de Morais
@@ -99,11 +103,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Liga da Defesa Nacional
 	}
 	Grão-Pará {
-		# políticos 
+		# políticos
+			# líderes
 		Raimundo Teixeira Mendes (líder democrata inicial)
 		José Carneiro da Gama Malcher (possível proto-fascista, interventor do Estado Novo)
 		João Antônio Luís Coelho (líder neutro inicial)
 		Joaquim de Magalhães Barata (um pouco jovem, possível socialista)
+			# ministros
 		Eneias Martins (possível adviser neutro, editor de jornal)
 		Justo Chermont (possível adviser democrático, diplomata)
 		Graça Aranha (possível democrata)
@@ -146,13 +152,15 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Minas Gerais {
 		# políticos
+			# líderes
 		Venceslau Brás (líder neutro inicial)
 		Belisário Penna (líder proto-fascista inicial)
 		Antônio Carlos Ribeiro de Andrada (líder democrata inicial [talvez Afrânio de Melo Franco seja melhor)
 		Afrânio de Melo Franco (possível líder democrata)
+			# ministros
 		Olegário Maciel (possível adviser democrata)
 		Arthur Bernardes (possível adviser neutro)
-		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista)
+		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista, talvez proto-fascista)
 		Pedro Lessa (possível democrata)
 		
 		# almirantes
@@ -168,10 +176,12 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	São Paulo {
 		# políticos
+			# líderes
 		Fernando Prestes de Albuquerque (líder neutro inicial)
 		Pedro Manuel de Toledo (líder democrata inicial)
 		Edgard Leuenroth (líder socialista inicial)
 		Francisco das Chagas Salgado (proto-fascista, pai de Plínio Salgado)
+			# ministros
 		Renato Kehl (adviser proto-fascista, eugenista)
 		Benjamim Mota (adviser socialista)
 		Altino Arantes (possível adviser neutro, silent workhorse)
@@ -199,11 +209,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	República Riograndense {
 		# políticos
+			# líderes
 		Borges de Medeiros (líder neutro inicial)
 		Joaquim Francisco de Assis Brasil (líder democrada inicial)
 		Plínio de Castro Casado (possível líder socialista)
-		Euclides Egídio de Sousa Aranha (coronel, adviser neutro)
 		João Cezimbra Jacques (militar, político, nacionalista, possível proto-fascista se não houver candidatos melhores)
+			# ministros
+		Euclides Egídio de Sousa Aranha (coronel, adviser neutro)
 		Ramiro Fortes de Barcellos
 		Hercílio Luz
 		Afonso d'Escragnolle Taunay
