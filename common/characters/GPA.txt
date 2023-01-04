@@ -34,7 +34,7 @@ characters={
 		}
 	}
 	GPA_joao_antonio_coelho ={
-		name="João Antônio Luís Coelho"	# adicionar loc entry para eng/pt/outros depois
+		name="João Antônio Luís Coelho"
 		portraits={
 			civilian={
 				large = "gfx/leaders/GPA/Portrait_GPA_Joao_antonio_coelho.dds"

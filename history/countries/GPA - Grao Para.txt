@@ -7,10 +7,10 @@ set_war_support = 0.19
 set_convoys = 42
 
 # líderes
-recruit_character = GPA_wui_inaituca
-recruit_character = GPA_rulio_acoeiro
-recruit_character = GPA_rui_antonio
-recruit_character = GPA_conselho_anarquista
+recruit_character = GPA_raimundo_teixeira_mendes
+recruit_character = GPA_jose_carneiro_gama_malcher
+recruit_character = GPA_joao_antonio_coelho
+recruit_character = GPA_socialist_leader
 
 # advisers
 recruit_character = GPA_carlos_roberto
