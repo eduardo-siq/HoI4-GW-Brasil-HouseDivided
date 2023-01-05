@@ -7,10 +7,10 @@ set_war_support = 0.19
 set_convoys = 42
 
 # líderes
-recruit_character = ACR_joao_pinto
-recruit_character = ACR_ruan_tirano
-recruit_character = ACR_mariscleudisa_almeida
-recruit_character = ACR_tales_roberto
+recruit_character = ACR_genesco_castro
+recruit_character = ACR_luis_galvez_rodriguez
+recruit_character = ACR_orlando_correa_lopes
+recruit_character = ACR_joaquim_vitor_silva
 
 # advisers
 recruit_character = ACR_assis_chateaubriand

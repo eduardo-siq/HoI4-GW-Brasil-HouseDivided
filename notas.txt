@@ -3,14 +3,20 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	
 	Acre {
 		# políticos
-		Luis Gálvez Rodríguez de Arias (espanhol)
-		José Plácido de Castro (gaúcho/paulista)
+			# líderes
+		Luis Gálvez Rodríguez de Arias (líder neutro inicial, espanhol)
+		Orlando Corrêa Lopes (líder socialista inicial, anarquista)
+		Genesco de Castro (irmão do José Plácido de Castro, possível democrata)
+		Joaquim Vítor da Silva (possível líder proto-fascista inicial, guarda nacional, vice-presidente)	# não há nenhuma indicação de que ele era um proto-fascista, mas como ele era militar & político ele tem o "physique du role"
+			# ministros
 		Epaminondas Jácome (potiguar)
 		José Tomás da Cunha Vasconcelos (pernambucano)
+		Antônio de Sousa Braga (seringalista, cearense)
+		José Plácido de Castro (gaúcho/paulista, presidente, morreu em 1908)
+		João Barreto de Menezes (pernambucano, militar, poeta, ativista da independência, possível democrata)
 		
 		# generais
 		José Cardoso Ramalho Júnior (amazonense)
-		Joaquim Vítor da Silva (?)
 		Gregório Taumaturgo de Azevedo (?)
 		Gabino Besouro (alagoano)
 		Luís Silvestre Gomes Coelho (cearense, um pouvo jovem)
@@ -18,10 +24,12 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# almirantes
 		
 		# outros
+		Alexandrino José da Silva (mandante da morte de José Plácido de Castro)
 		
 		# empresas
 		
 		# partidos & eventos
+		Expedição dos Poetas (liderada por Orlando Corrêa Lopes)
 	
 	}
 	Confederação do Equador {

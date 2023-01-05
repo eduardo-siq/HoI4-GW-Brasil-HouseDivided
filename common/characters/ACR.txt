@@ -1,15 +1,15 @@
 characters={
 	### líderes {
 	
-	ACR_jose_placido_castro = {
-		name="José Plácido de Castro"
+	ACR_genesco_castro = {
+		name="Genesco de Castro"
 		portraits={
 			civilian={
-				large = "gfx/leaders/ACR/Portrait_ACR_Jose_Placido_Castro.dds"
+				large = "gfx/leaders/ACR/Portrait_ACR_Genesco_Castro.dds"
 			}
 			army={
-				small = "gfx/leaders/ACR/Portrait_ACR_Jose_Placido_Castro_Small.dds"
-				large = "gfx/leaders/ACR/Portrait_ACR_Jose_Placido_Castro.dds"
+				small = "gfx/leaders/ACR/Portrait_ACR_Genesco_Castro_Small.dds"
+				large = "gfx/leaders/ACR/Portrait_ACR_Genesco_Castro.dds"
 			}
 		}
 		country_leader={
@@ -19,16 +19,20 @@ characters={
 			id=-1
 		}
 	}
-	ACR_fascist_leader ={
-		#name=""
+	ACR_joaquim_vitor_silva ={
+		name="Joaquim Vítor da Silva"
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/ACR/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/ACR/Portrait_ACR_Joaquim_Vitor_Silva.dds"
+			}
+			army={
+				small = "gfx/leaders/ACR/Portrait_ACR_Joaquim_Vitor_Silva_Small.dds"
+				large = "gfx/leaders/ACR/Portrait_ACR_Joaquim_Vitor_Silva.dds"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
-			ideology=fascism_ideology
+			ideology=falangism
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -51,16 +55,20 @@ characters={
 			id=-1
 		}
 	}
-	ACR_socialist_leader ={
-		#name=""
+	ACR_orlando_correa_lopes ={
+		name="Orlando Corrêa Lopes"
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/ACR/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/ACR/Portrait_ACR_Orlando_Correa_Lopes.dds"
+			}
+			army={
+				small = "gfx/leaders/ACR/Portrait_ACR_Orlando_Correa_Lopes_Small.dds"
+				large = "gfx/leaders/ACR/Portrait_ACR_Orlando_Correa_Lopes.dds"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
-			ideology=syndicalism
+			ideology=anarcho_syndicalism
 			expire="1965.1.1.1"
 			id=-1
 		}
