@@ -15,13 +15,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		José Plácido de Castro (gaúcho/paulista, presidente, morreu em 1908)
 		João Barreto de Menezes (pernambucano, militar, poeta, ativista da independência, possível democrata)
 		
-		# generais
+		# generais & oficiais
 		José Cardoso Ramalho Júnior (amazonense)
 		Gregório Taumaturgo de Azevedo (?)
 		Gabino Besouro (alagoano)
 		Luís Silvestre Gomes Coelho (cearense, um pouvo jovem)
 		
-		# almirantes
+		# almirantes & oficiais
 		
 		# outros
 		Alexandrino José da Silva (mandante da morte de José Plácido de Castro)
@@ -58,7 +58,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Tertuliano Potiguara
 		Antônio Silvino (cangaceiro)
 		
-		# almirantes
+		# almirantes & oficiais
 		
 		# outros
 		Padre Cícero
@@ -84,7 +84,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Washington Luís
 		Evaristo de Morais
 		
-		# generais
+		# generais & oficiais
 		Francisco Jaguaribe Gomes de Matos (um pouco jovem, possível democrata)
 		Nicolau Bueno Horta Barbosa (possível democrata)
 		Manuel Rabelo
@@ -94,7 +94,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Antônio Gastão de Orléans e Bragança (príncipe, aviador)
 		Luís de Orléans e Bragança (príncipe, militar)
 		
-		# almirantes
+		# almirantes & oficiais
 		Antônio Coutinho Gomes Pereira
 		Isaías de Noronha
 		Henrique Aristides Guilhem
@@ -127,7 +127,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Augusto Tasso Fragoso
 		Lauro Sodré
 		
-		# almirantes
+		# almirantes & oficiais
 		Manuel Inácio Belfort Vieira
 		
 		# outros
@@ -149,7 +149,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Eurico Gaspar Dutra (um pouco jovem)
 		Caetano Manuel de Faria e Albuquerque (possível proto-fascista)
 		
-		# almirantes
+		# almirantes & oficiais
 		
 		# outros
 		Percy Fawcett (explorador inglês)
@@ -171,7 +171,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista, talvez proto-fascista)
 		Pedro Lessa (possível democrata)
 		
-		# almirantes
+		# almirantes & oficiais
 		Jorge Dodsworth Martins (um pouco jovem)
 		
 		# outros
@@ -195,13 +195,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Altino Arantes (possível adviser neutro, silent workhorse)
 		Rodrigues Alves (possível adviser neutro)
 		
-		# generais
+		# generais & oficiais
 		Victoriano Clementino Salgado
 		Brasílio Taborda
 		Francisco Júlio César de Alfieri (italiano, possível democrata, possível theorist)
 		Miguel Costa (um pouco jovem)
 		
-		# almirantes
+		# almirantes & oficiais
 		
 		# outros
 		Emílio Ribas
@@ -241,7 +241,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Oscar Saturnino de Paiva (possível democrata)
 		Palimércio de Rezende
 		
-		# almirantes
+		# almirantes & oficiais
 		Pedro Max Fernando Frontin
 		Alexandrino Faria de Alencar
 		Protógenes Guimarães
