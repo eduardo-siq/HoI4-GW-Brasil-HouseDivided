@@ -17,9 +17,9 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		
 		# generais & oficiais
 		José Cardoso Ramalho Júnior (amazonense)
-		Gregório Taumaturgo de Azevedo (?)
-		Gabino Besouro (alagoano)
-		Luís Silvestre Gomes Coelho (cearense, um pouvo jovem)
+		Gregório Taumaturgo de Azevedo = engenharia militar (?)
+		Gabino Besouro =  Escola de Estado-Maior(alagoano)
+		Luís Silvestre Gomes Coelho =  arma da infantaria, aspirante a oficial Escola Militar de Artilharia, e Engenharia do Realengo (cearense, um pouvo jovem)
 		
 		# almirantes & oficiais
 		
@@ -50,8 +50,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
 		
 		# generais & oficiais
-		Hermes da Fonseca (possível líder proto-fascista, nasceu no Rio Grande do Sul mas a família era de Alagoas)
-		Vespasiano Gonçalves de Albuquerque e Silva
+		Hermes da Fonseca = comando da defesa (possível líder proto-fascista, nasceu no Rio Grande do Sul mas a família era de Alagoas)
+		Vespasiano Gonçalves de Albuquerque e Silva =  engenheiro militar
 		João Gomes Ribeiro Filho
 		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
 		João Gualberto Gomes de Sá Filho
