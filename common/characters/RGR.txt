@@ -65,6 +65,19 @@ characters={
 			id=-1
 		}
 	}
+	RGR_joao_candido_filisberto ={
+		name="João Cândido Filisberto"
+		portraits={
+			civilian={
+				large = "gfx/leaders/RGR/Portrait_RGR_Joao_Candido_Filisberto_Civil.dds"
+			}
+			army={
+				small = "gfx/leaders/RGR/Portrait_RGR_Joao_Candido_Filisberto_Navy_Small.dds"
+				large = "gfx/leaders/RGR/Portrait_RGR_Joao_Candido_Filisberto_Navy.dds"
+			}
+		}
+		#country_leader={	# Torna-se country leader por focos/eventos, que vão escolher o path democrata / socialista / protofascista
+	}
 
 	###} generais {
 	
