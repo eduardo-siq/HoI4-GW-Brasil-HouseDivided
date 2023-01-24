@@ -37,18 +37,19 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 			# líderes
 		Ruy Barbosa (líder democrata inicial)
 		João Mangabeira (líder neutro inicial)
-		Joaquim Pimenta (líder socialista inicial)
+		José Elias da Silva (líder socialista inicial, anarquista, idade incerta)
 		Artur Neiva (possível líder proto-fascista, eugenista)
 			# ministros
+		Joaquim Pimenta (adviser socialista, um pouco jovem)
 		Afrânio Peixoto (possível adviser proto-fascista, eugenista)
-		Epitácio Pessoa
-		Francisco Heráclio do Rego (coronel)
-		João Pessoa Cavalcanti de Albuquerque
-		Manuel de Oliveira Lima
 		Miguel Calmon Du Pin e Almeida (possível adviser democrata)
 		José Mariano Carneiro da Cunha (possível adviser democrata)
 		Waldemar Falcão (um pouco jovem, possível proto-fascista)
 		Newton de Andrade Cavalcanti (um pouco jovem, possível proto-fascista)
+		Epitácio Pessoa
+		Francisco Heráclio do Rego (coronel)
+		João Pessoa Cavalcanti de Albuquerque
+		Manuel de Oliveira Lima
 		
 		# generais & oficiais
 		Hermes da Fonseca = comando da defesa (possível líder proto-fascista, nasceu no Rio Grande do Sul mas a família era de Alagoas)
@@ -110,6 +111,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Escolas de Aprendizes e Artífices
 		Escola Militar do Brasil
 		Liga da Defesa Nacional
+		UGT (União Geral dos Trabalhadores)
 	}
 	Grão-Pará {
 		# políticos
@@ -164,6 +166,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 			# líderes
 		Venceslau Brás (líder neutro inicial)
 		Belisário Penna (líder proto-fascista inicial)
+		José Rodrigues Leite e Oiticica (líder socialista inicial [anarquista], um pouco jovem)
 		Antônio Carlos Ribeiro de Andrada (líder democrata inicial [talvez Afrânio de Melo Franco seja melhor)
 		Afrânio de Melo Franco (possível líder democrata)
 			# ministros
@@ -171,6 +174,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Arthur Bernardes (possível adviser neutro)
 		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista, talvez proto-fascista)
 		Pedro Lessa (possível democrata)
+		Maria Lacerda de Moura (possível adviser socialista, anarquista, um pouco jovem)
 		
 		# almirantes & oficiais
 		Jorge Dodsworth Martins (um pouco jovem)
@@ -195,6 +199,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Benjamim Mota (adviser socialista)
 		Altino Arantes (possível adviser neutro, silent workhorse)
 		Rodrigues Alves (possível adviser neutro)
+		Adolfo Gordo (possível adviser neutro)
 		
 		# generais & oficiais
 		Victoriano Clementino Salgado
@@ -215,6 +220,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# empresas
 		
 		# partidos & eventos
+		Lei Adolfo Gordo (contra anarquistas)
+		Liga Nacionalista de São Paulo
 	}
 	República Riograndense {
 		# políticos
