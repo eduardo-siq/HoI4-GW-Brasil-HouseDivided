@@ -47,12 +47,16 @@ characters={
 			id=-1
 		}
 	}
-	EQA_joaquim_pimenta={
-		name="Joaquim Pimenta"
+	EQA_jose_elias_silva = {
+		name="José Elias da Silva"
 		portraits={
-			#civilian={
-			#	large = "gfx/leaders/EQA/.dds"
-			#}
+			civilian={
+				large = "gfx/leaders/EQA/Portrait_EQA_Jose_Elias_Silva.dds"
+			}
+			army={
+				small = "gfx/leaders/EQA/Portrait_EQA_Jose_Elias_Silva_Small.dds"
+				large = "gfx/leaders/EQA/Portrait_EQA_Jose_Elias_Silva.dds"
+			}
 		}
 		country_leader={
 			desc="POLITICS_GETULIO_VARGAS_DESC"
