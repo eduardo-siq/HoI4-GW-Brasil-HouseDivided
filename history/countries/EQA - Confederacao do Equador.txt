@@ -10,7 +10,7 @@ set_convoys = 42
 recruit_character = EQA_ruy_barbosa
 recruit_character = EQA_waldemar_falcao
 recruit_character = EQA_joao_mangabeira
-recruit_character = EQA_joaquim_pimenta
+recruit_character = EQA_jose_elias_silva
 
 # advisers
 recruit_character = RIO_assis_chateaubriand
