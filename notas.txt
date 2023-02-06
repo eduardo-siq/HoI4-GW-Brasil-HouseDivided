@@ -50,6 +50,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Francisco Heráclio do Rego (coronel)
 		João Pessoa Cavalcanti de Albuquerque
 		Manuel de Oliveira Lima
+		Joaquim Arcoverde de Albuquerque Cavalcanti (cardeal arcoverde, unidade religiosa)
 		
 		# generais & oficiais
 		Hermes da Fonseca = comando da defesa (possível líder proto-fascista, nasceu no Rio Grande do Sul mas a família era de Alagoas)
@@ -125,6 +126,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Justo Chermont (possível adviser democrático, diplomata)
 		Graça Aranha (possível democrata)
 		Silvério José Néri (apoiou o Acre, pode fazer parte de um path de amizade/anexação)
+		Raimundo Nina Rodrigues (eugenista, antropólogo, nacionalista, adviser protofascista)
 		
 		# generais & oficiais
 		Augusto Tasso Fragoso
