@@ -86,6 +86,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João Pandiá Calógeras (adviser para modernização do exército)
 		Washington Luís
 		Evaristo de Morais
+		David Morethson Campista (adviser econômico, possível adviser democrata)
 		
 		# generais & oficiais
 		Francisco Jaguaribe Gomes de Matos (um pouco jovem, possível democrata)
@@ -188,6 +189,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# empresas
 		
 		# partidos & eventos
+		"Jardim de Infância" de Afonso Pena
 	}
 	São Paulo {
 		# políticos
