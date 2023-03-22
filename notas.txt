@@ -145,9 +145,13 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 	}
 	Mato Grosso {
 		# políticos
-		Joaquim Augusto da Costa Marques
+			# líderes
+		Antônio Francisco Azeredo (líder democrata inicial)
 		Pedro Celestino Corrêa da Costa
-		José Leopoldo de Bulhões Jardim (financista, senador)
+		José Leopoldo de Bulhões Jardim (possível líder neutro inicial, financista, senador)
+			# ministros
+		Joaquim Duarte Murtinho Nobre (adviser democrata)
+		Joaquim Augusto da Costa Marques
 
 		# generais & oficiais
 		Cândido Rondon
@@ -163,6 +167,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# empresas
 		
 		# partidos & eventos
+		Partido Republicano Conservador (democrata)
+		Partido Nacional Republicano (separatista, o nome é serve para proto-fascista)
 	}
 	Minas Gerais {
 		# políticos
