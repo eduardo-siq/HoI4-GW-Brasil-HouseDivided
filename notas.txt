@@ -56,7 +56,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Hermes da Fonseca = comando da defesa (possível líder proto-fascista, nasceu no Rio Grande do Sul mas a família era de Alagoas)
 		Vespasiano Gonçalves de Albuquerque e Silva =  engenheiro militar
 		João Gomes Ribeiro Filho
-		José Pessoa Cavalcanti de Albuquerque (um pouco jovem)
+		José Pessoa Cavalcanti de Albuquerque (um pouco jovem, pode ser ligado aos proto-fascistas)
 		João Gualberto Gomes de Sá Filho
 		Tertuliano Potiguara
 		Antônio Silvino (cangaceiro)
@@ -168,7 +168,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		
 		# partidos & eventos
 		Partido Republicano Conservador (democrata)
-		Partido Nacional Republicano (separatista, o nome é serve para proto-fascista)
+		Partido Nacional Republicano (separatista, o nome é serve para proto-fascista) ver: https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Transatl%C3%A2ntica_do_Mato_Grosso
 	}
 	Minas Gerais {
 		# políticos
