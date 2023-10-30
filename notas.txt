@@ -113,6 +113,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Escolas de Aprendizes e Artífices
 		Escola Militar do Brasil
 		Liga da Defesa Nacional
+		Liga Progressista (fim do Império, liberais e conservadores moderados)
 		UGT (União Geral dos Trabalhadores)
 	}
 	Grão-Pará {
@@ -217,6 +218,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Francisco Júlio César de Alfieri (italiano, possível democrata, possível theorist)
 		Miguel Costa (um pouco jovem)
 		Pedro Dias de Campos (força pública)
+		Edmundo Wright (anglo-paulista, cavalaria)
 		
 		# almirantes & oficiais
 		
@@ -249,6 +251,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		José Antônio Flores da Cunha
 		João Cândido ("almirante negro", pode ser socialista, democrata ou proto-fascista)
 		José Maria de Santo Agostinho (monge messiânico)
+		Abílio de Nequete (possível socialista)
 		
 		# generais & oficiais
 		Setembrino de Carvalho
