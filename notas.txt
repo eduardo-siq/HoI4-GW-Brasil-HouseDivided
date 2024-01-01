@@ -211,6 +211,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Altino Arantes (possível adviser neutro, silent workhorse)
 		Rodrigues Alves (possível adviser neutro)
 		Adolfo Gordo (possível adviser neutro)
+		Cassiano Ricardo (nacionalista, queria restaurar o território da capitania, +war support)
 		
 		# generais & oficiais
 		Victoriano Clementino Salgado
@@ -219,6 +220,8 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Miguel Costa (um pouco jovem)
 		Pedro Dias de Campos (força pública)
 		Edmundo Wright (anglo-paulista, cavalaria)
+		Azarias Silva (treinamento, cavalaria, defesa)
+		Juni Kikawa (nipo-brasileiro, envolvido em terrorismo pró-imperador)
 		
 		# almirantes & oficiais
 		
@@ -235,6 +238,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# partidos & eventos
 		Lei Adolfo Gordo (contra anarquistas)
 		Liga Nacionalista de São Paulo
+		Proposta de Cabanas para tornar um Triângulo mineiro um estado independente
 	}
 	República Riograndense {
 		# políticos

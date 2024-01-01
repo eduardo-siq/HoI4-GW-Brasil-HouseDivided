@@ -2,27 +2,26 @@
 state={
 	id=503
 	name="STATE_503"
-	manpower = 1299945
+    manpower = 921752
 	
-	state_category = city
+	state_category = rural
 
+	resources={
+		tungsten=1
+	}
+	
 	history={
 		owner = RGR
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 2
-			arms_factory = 1
+			infrastructure = 3
 		}
-
 		add_core_of = RGR
-		add_core_of = JUL
-
 		victory_points = {
-			13294 5	# Desterro (Florianópolis)
+			10405 1 
 		}
 	}
 
 	provinces={
-		1529 4548 10405 12466 13292 13293 13294 13295 13296  
+		1529 4533 4548 10405 12466 
 	}
 }
