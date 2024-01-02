@@ -97,6 +97,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		José Caetano de Faria ("A Defesa Nacional", teorista)
 		Antônio Gastão de Orléans e Bragança (príncipe, aviador)
 		Luís de Orléans e Bragança (príncipe, militar)
+		Christiano Hollocombe Von Moser Klingelhoefer (Guarda Nacional, Missão Militar Francesa, WWI, Legião Estrangeira, infantaria, artilharia)
 		
 		# almirantes & oficiais
 		Antônio Coutinho Gomes Pereira
@@ -106,7 +107,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# outros
 		Olavo Bilac (escritor nacionalista)
 		Adolfo Lutz
-		Ricardo Kirk (aviador)
+		Ricardo João Kirk (aviador, primeiro piloto das FFAA)
 		
 		# partidos & eventos
 		"luzias", "saquaremas", "exaltados", "restauradores"
@@ -133,6 +134,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# generais & oficiais
 		Augusto Tasso Fragoso
 		Lauro Sodré
+		Hastínfilo de Moura (marechal, gov. de São Paulo após Rev. 1930)
 		
 		# almirantes & oficiais
 		Manuel Inácio Belfort Vieira
@@ -212,16 +214,22 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Rodrigues Alves (possível adviser neutro)
 		Adolfo Gordo (possível adviser neutro)
 		Cassiano Ricardo (nacionalista, queria restaurar o território da capitania, +war support)
+		Edmundo Wright (militar anglo-paulista, cavalaria, possível adviser democrático)
+		Altino Arantes Marques (Caixa de Conversão, política do Café)
 		
 		# generais & oficiais
 		Victoriano Clementino Salgado
 		Brasílio Taborda
+		Luís Mendes de Morais (general, ministro da guerra)
 		Francisco Júlio César de Alfieri (italiano, possível democrata, possível theorist)
 		Miguel Costa (um pouco jovem)
 		Pedro Dias de Campos (força pública)
-		Edmundo Wright (anglo-paulista, cavalaria)
 		Azarias Silva (treinamento, cavalaria, defesa)
 		Juni Kikawa (nipo-brasileiro, envolvido em terrorismo pró-imperador)
+		Manuel de Freitas Novaes Neto (infantaria, Constitucionalista)
+		Antônio Moreira César (infantaria, lutou em Canudos, "harsh leader" ou "prince of terror")
+		Paul Balagny (francês, missão militar, possível theorist)
+		José Espíndola de Magalhães ("Escola de Oficiais de Canindé", possível força expedicionária para WWI)
 		
 		# almirantes & oficiais
 		
@@ -232,6 +240,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Carlos Leôncio de Magalhães (banqueiro)
 		Júlio de Mesquita ("O Estado de São Paulo")
 		Ramos de Azevedo (arquiteto)
+		Eduardo Pacheco Chaves (aviador, vôos noturnos)
 		
 		# empresas
 		
@@ -256,6 +265,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João Cândido ("almirante negro", pode ser socialista, democrata ou proto-fascista)
 		José Maria de Santo Agostinho (monge messiânico)
 		Abílio de Nequete (possível socialista)
+		Amadeo Rossi (empresário do ramo bélico)
 		
 		# generais & oficiais
 		Setembrino de Carvalho
@@ -263,9 +273,10 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		João de Deus Mena Barreto
 		José Fernandes Leite de Castro
 		Lauro Müller
-		Isidoro Dias Lopes
+		Isidoro Dias Lopes (republicano, tenentista, artilharia)
 		Oscar Saturnino de Paiva (possível democrata)
 		Palimércio de Rezende
+		Manuel do Nascimento Vargas (pai de Vargas, veterano do Paraguai, possível militar, possível adviser neutro)
 		
 		# almirantes & oficiais
 		Pedro Max Fernando Frontin
@@ -275,6 +286,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		# outros
 		
 		# empresas
+		Amadeo Rossi (fábrica de armas)
 		
 		# partidos & eventos
 	}
