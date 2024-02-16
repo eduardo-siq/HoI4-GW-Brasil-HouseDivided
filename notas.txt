@@ -103,6 +103,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Antônio Coutinho Gomes Pereira
 		Isaías de Noronha
 		Henrique Aristides Guilhem
+		Pedro Max Fernando Frontin
 		
 		# outros
 		Olavo Bilac (escritor nacionalista)
@@ -187,8 +188,10 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Afonso Celso de Assis Figueiredo Júnior (possível path monarquista, talvez proto-fascista)
 		Pedro Lessa (possível democrata)
 		Maria Lacerda de Moura (possível adviser socialista, anarquista, um pouco jovem)
+		Francisco Antônio de Sales (ministro da fazenda de Hermes da Fonseca)
 		
-		# almirantes & oficiais
+		# generais, almirantes & oficiais
+		Antônio Netto de Oliveira Silva Faro (comandante da 1a região militar)
 		Jorge Dodsworth Martins (um pouco jovem)
 		
 		# outros
@@ -213,9 +216,12 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Altino Arantes (possível adviser neutro, silent workhorse)
 		Rodrigues Alves (possível adviser neutro)
 		Adolfo Gordo (possível adviser neutro)
-		Cassiano Ricardo (nacionalista, queria restaurar o território da capitania, +war support)
+		Cassiano Ricardo (nacionalista, queria restaurar o território da capitania, +war support, +1894, um pouco jovem demais para WWI)
 		Edmundo Wright (militar anglo-paulista, cavalaria, possível adviser democrático)
 		Altino Arantes Marques (Caixa de Conversão, política do Café)
+		Alfredo Ellis (político e médio, republicano)
+		Arthur Rudge da Silva Ramos (chefe de polícia)
+		Frederico de Marco (cientista, médico, professor)
 		
 		# generais & oficiais
 		Victoriano Clementino Salgado
@@ -230,8 +236,11 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Antônio Moreira César (infantaria, lutou em Canudos, "harsh leader" ou "prince of terror")
 		Paul Balagny (francês, missão militar, possível theorist)
 		José Espíndola de Magalhães ("Escola de Oficiais de Canindé", possível força expedicionária para WWI)
+		Luiz Barbedo (general)
 		
 		# almirantes & oficiais
+		Artur Silveira de Motta (+ 1847, um pouco velho demais, lutou no Paraguai)
+		Luís de Mello Marques (submarinos)
 		
 		# outros
 		Emílio Ribas
@@ -279,9 +288,9 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Manuel do Nascimento Vargas (pai de Vargas, veterano do Paraguai, possível militar, possível adviser neutro)
 		
 		# almirantes & oficiais
-		Pedro Max Fernando Frontin
 		Alexandrino Faria de Alencar
 		Protógenes Guimarães
+		(eu tinha colocado o Pedro Max Fernando Frontin aqui, não lembro se havia um motivo "de lore" para isso)
 		
 		# outros
 		
