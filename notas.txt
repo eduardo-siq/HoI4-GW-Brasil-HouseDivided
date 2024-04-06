@@ -100,6 +100,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Christiano Hollocombe Von Moser Klingelhoefer (Guarda Nacional, Missão Militar Francesa, WWI, Legião Estrangeira, infantaria, artilharia)
 		
 		# almirantes & oficiais
+		Antônio Luís von Hoonholtz (73 anos, talvez teorista ou old guard)
 		Antônio Coutinho Gomes Pereira
 		Isaías de Noronha
 		Henrique Aristides Guilhem
@@ -211,6 +212,7 @@ LISTA DE PERSONAGENS HISTÓRICOS {
 		Edgard Leuenroth (líder socialista inicial)
 		Francisco das Chagas Salgado (proto-fascista, pai de Plínio Salgado)
 			# ministros
+		Antônio da Silva Prado (adviser democrático, abolicionista, monarquista)		https://pt.wikipedia.org/wiki/Antônio_da_Silva_Prado
 		Renato Kehl (adviser proto-fascista, eugenista)
 		Benjamim Mota (adviser socialista)
 		Altino Arantes (possível adviser neutro, silent workhorse)
